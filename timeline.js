@@ -17,8 +17,10 @@ function getResult() {
         //articles are being pulled too fast and cause an error if we don't add a delay. alerts mimic this behaviour.
         $.getJSON(url, function(result){
             timelineEvents.push({name : result.response.docs[0].snippet,
-                date : result.response.docs[0].pub_date});
-            //alert(result.response.docs[0].pub_date)
+                date : result.response.docs[0].pub_date,
+                link : result.response.docs[0].web_url
+            });
+            //alert(result.response.docs[0].web_url)
         });
         //alert(month);
     }
@@ -29,10 +31,9 @@ setTimeout(function(){
     $.getJSON(url, function(result){
         //alert("drawTimeline")
         drawTimeline();
+        timelineEvents = [];
     })
-}, delay);
-
-}
+}, delay)}
 
 
 function drawTimeline() {

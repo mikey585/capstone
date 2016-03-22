@@ -155,6 +155,7 @@ var TimeKnots = {
         }
         return Math.floor(cfg.width/2)
     }).on("mouseover", function(d){
+        $(this).css('cursor','pointer');
       if(cfg.dateDimension){
         var format = d3.time.format(cfg.dateFormat);
         var datetime = format(new Date(d.date));
@@ -175,7 +176,6 @@ var TimeKnots = {
       tip.transition()
       .duration(100)
       .style("opacity", .9);
-
     })
     .on("mouseout", function(){
         d3.select(this)
@@ -183,7 +183,10 @@ var TimeKnots = {
         .duration(100).attr("r", function(d){if(d.radius != undefined){return d.radius} return cfg.radius});
         tip.transition()
         .duration(100)
-    .style("opacity", 0)});
+    .style("opacity", 0)})
+    .on("click", function(d){
+        window.open(d.link);
+    });
 
     //Adding start and end labels
     if(cfg.showLabels != false){
@@ -214,4 +217,3 @@ var TimeKnots = {
     .on("mouseout", function(){return tip.style("opacity", 0).style("top","0px").style("left","0px");});
   }
 }
-
