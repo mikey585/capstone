@@ -3,8 +3,7 @@ $(document).ready(function() {
     submit.onclick = getResult;
 });
 
-var timelineEvents = [
-      ];
+var timelineEvents = [];
 
 function getResult() {
 
@@ -46,29 +45,3 @@ function drawTimeline() {
         });
   console.log(timelineEvents);
 }
-
-// var timelineEvents = [{
-//   name: "In China, Diners Pay for Clean Air With Their Entree",
-//   date: "2015-12-15",
-//   img: "http://static01.nyt.com/images/2015/12/16/world/16chinaair/16chinaair-master675.jpg"
-// }, {
-//   name: "Morning Agenda: A New Global Currency War",
-//   date: "2015-08-14",
-//   img: ""
-// }, {
-//   name: "Russia Expands Sanctions Against Turkey After Downing of Jet",
-//   date: "2015-12-30",
-//   img: "http://static01.nyt.com/images/2015/12/31/world/31RUSSIA-web2/31RUSSIA-web2-articleLarge.jpg"
-// }, {
-//   name: "Greece Flashes Warning Signals About Its Debt",
-//   date: "2015-04-19",
-//   img: "http://static01.nyt.com/images/2015/04/20/business/GREEKDEBT/GREEKDEBT-master675.jpg"
-// }, {
-//   name: "Paris Attack Updates, Day 3: Two Hostage Situations",
-//   date: "2015-01-09",
-//   img: "https://pbs.twimg.com/media/B67VKs7IQAAZ4yz.jpg"
-// }, {
-//   name: "‘Jurassic World’ Tromps All Over the Box Office Competition",
-//   date: "2015-05-14",
-//   img: "http://static01.nyt.com/images/2015/06/15/arts/BOXOFFICE/BOXOFFICE-master675.jpg"
-// }];
