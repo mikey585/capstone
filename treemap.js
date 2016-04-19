@@ -19,7 +19,8 @@ function treemap() {
         .style("width", (width + margin.left + margin.right) + "px")
         .style("height", (height + margin.top + margin.bottom) + "px")
         .style("left", margin.left + "px")
-        .style("top", margin.top + "px");
+        .style("top", margin.top + "px")
+        .style("margin", "auto");
 
         d3.json("json_result2.json", function(error, root) {
         if (error) throw error;
@@ -30,7 +31,11 @@ function treemap() {
             .attr("class", "node")
             .call(position)
             .style("background", function(d) { return d.children ? color(d.news_desk) : null; })
-            .text(function(d) { return d.children ? null : d.name; });
+            .text(function(d) { return d.children ? null : d.name; })
+            .on("mouseover", function(d){
+                $(this).css('cursor','pointer')})
+            .on("click", function(d){
+                window.open(d.link)});
 
         d3.selectAll("input").on("change", function change() {
           var value = this.value === "count"
