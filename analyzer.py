@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+
 import os
 import json
 import urllib.request
@@ -7,13 +8,12 @@ import urllib.error
 from nytimesarticle import articleAPI
 
 api = articleAPI("93fc659744f5238f6f95d464865562b8:16:74068039")
-articles = api.search(begin_date = 20010101,end_date = 20011231)
+# articles = api.search(begin_date = 20010101,end_date = 20011231, page = 3)
 
 def get_articles(date):
     '''
     This function accepts a year in string format (e.g.'1980')
-    and a query (e.g.'Amnesty International') and it will
-    return a list of parsed articles (in dictionaries)
+    and it will return a list of parsed articles (in dictionaries)
     for that year.
     '''
     all_articles = []
@@ -48,7 +48,8 @@ def parse_articles(articles):
     for i in articles['response']['docs']:
         if (i["news_desk"] in d.keys()):
             d[i["news_desk"]].extend([{"name": i["headline"]["main"],
-                                "size": int(i["word_count"])}])
+                                "size": int(i["word_count"]),
+                                "link": i["web_url"]}])
         else:
             d[i["news_desk"]] = [{"name": i["headline"]["main"], "size": int(i["word_count"])}]
 
@@ -60,7 +61,7 @@ def parse_articles(articles):
     return(news)
 
 def main():
-    parse_articles(articles)
+    get_articles(2001)
 
 if __name__ == "__main__":
     main()
