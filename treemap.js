@@ -1,5 +1,6 @@
 $(document).ready(function() {
-    treemap();
+    var submit = document.getElementById("search_button");
+    submit.onclick = treemap;
 });
 
 function treemap() {
@@ -30,7 +31,7 @@ function treemap() {
           .enter().append("div")
             .attr("class", "node")
             .call(position)
-            .style("background", function(d) { return d.children ? color(d.news_desk) : null; })
+            .style("background", function(d) { return d.children ? color(d.section_name) : null; })
             .text(function(d) { return d.children ? null : d.name; })
             .on("mouseover", function(d){
                 $(this).css('cursor','pointer')})

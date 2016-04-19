@@ -8,7 +8,7 @@ import urllib.error
 from nytimesarticle import articleAPI
 
 api = articleAPI("93fc659744f5238f6f95d464865562b8:16:74068039")
-# articles = api.search(begin_date = 20010101,end_date = 20011231, page = 3)
+# articles = api.search(begin_date = 20110101,end_date = 20111231, page = 2)
 
 def get_articles(date):
     '''
@@ -26,42 +26,43 @@ def get_articles(date):
         all_articles = all_articles + articles
     return(all_articles)
 
-def parse_articles(articles):
+def parse_articles():
     '''
     This function takes in a response to the NYT api and parses
     the articles into a list of dictionaries
     '''
     news = {"children": []}
     d = {}
-    # date = input("Enter a year: ")
+    date = input("Enter a year: ")
 
-    top_node = {"news_desk":"Articles",
+    top_node = {"section_name":"Articles",
     "size":500,
     "children": []}
 
-    file_write = open("json_result2.json", "w")
+    file_write = open(date + ".json", "w")
     # for i in range(0,99):
-    #     articles = api.search(
-    #            begin_date = str(date) + "0101",
-    #            end_date = str(date) + "1231",
-    #            page = i)
+    articles = api.search(
+        begin_date =  int(date + "0101"),
+        end_date = int(date + "1231"),
+        page = 0)
+
     for i in articles['response']['docs']:
-        if (i["news_desk"] in d.keys()):
-            d[i["news_desk"]].extend([{"name": i["headline"]["main"],
+        if (i["section_name"] in d.keys()):
+            d[i["section_name"]].extend([{"name": i["headline"]["main"],
                                 "size": int(i["word_count"]),
                                 "link": i["web_url"]}])
         else:
-            d[i["news_desk"]] = [{"name": i["headline"]["main"], "size": int(i["word_count"])}]
+            d[i["section_name"]] = [{"name": i["headline"]["main"], "size": int(i["word_count"])}]
 
     for (k, v) in d.items():
-        top_node["children"].append({"news_desk": k, "children": v})
+        top_node["children"].append({"section_name": k, "children": v})
 
     json.dump(top_node, file_write, indent = 2)
     file_write.close()
     return(news)
 
 def main():
-    get_articles(2001)
+    parse_articles()
 
 if __name__ == "__main__":
     main()
