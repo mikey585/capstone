@@ -21,7 +21,7 @@ function treemap() {
         .style("left", margin.left + "px")
         .style("top", margin.top + "px");
 
-        d3.json("mydata.json", function(error, root) {
+        d3.json("json_result2.json", function(error, root) {
         if (error) throw error;
 
         var node = div.datum(root).selectAll(".node")
@@ -29,7 +29,7 @@ function treemap() {
           .enter().append("div")
             .attr("class", "node")
             .call(position)
-            .style("background", function(d) { return d.children ? color(d.name) : null; })
+            .style("background", function(d) { return d.children ? color(d.news_desk) : null; })
             .text(function(d) { return d.children ? null : d.name; });
 
         d3.selectAll("input").on("change", function change() {

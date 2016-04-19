@@ -1,0 +1,66 @@
+{
+  "size": 500,
+  "children": [
+    {
+      "children": [
+        {
+          "size": 95,
+          "name": "Metro Briefing | New Jersey: Newark: E-ZPass Deficit Widens"
+        }
+      ],
+      "news_desk": "Metropolitan Desk"
+    },
+    {
+      "children": [
+        {
+          "size": 182,
+          "name": "California Governor Taps Outside Donors"
+        },
+        {
+          "size": 344,
+          "name": "Travelers Wait As Officials Check Threats"
+        }
+      ],
+      "news_desk": "National Desk"
+    },
+    {
+      "children": [
+        {
+          "size": 515,
+          "name": "Smoke Chokes Sydney as More Bush Fires Are Set Near the City"
+        }
+      ],
+      "news_desk": "Foreign Desk"
+    },
+    {
+      "children": [
+        {
+          "size": 61,
+          "name": "Hatteberg to Try First Base for A's"
+        },
+        {
+          "size": 200,
+          "name": "DeWitt Gets Victory In Skeleton Trials"
+        },
+        {
+          "size": 131,
+          "name": "U.S. Will Face Russia in Juniors"
+        },
+        {
+          "size": 315,
+          "name": "Coyotes Top Sharks On Road"
+        },
+        {
+          "size": 397,
+          "name": "N.F.L. Week 16; Seahawks' Survival Puts Jets in Jeopardy"
+        },
+        {
+          "size": 376,
+          "name": "N.F.L. Week 16; Broncos Keep Raiders Reeling"
+        }
+      ],
+      "news_desk": "Sports Desk"
+    }
+  ],
+  "news_desk": "Articles"
+}
