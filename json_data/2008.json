@@ -1,0 +1,312 @@
+{
+  "size": 500,
+  "children": [
+    {
+      "children": [
+        {
+          "size": 189,
+          "name": "Times Square Spectacular"
+        },
+        {
+          "size": 120,
+          "name": "Swift Still No. 1, While Downloads Have a No. 1 Week",
+          "link": "http://artsbeat.blogs.nytimes.com/2008/12/31/swift-still-no-1-while-downloads-have-a-no-1-week/"
+        },
+        {
+          "size": 129,
+          "name": "Pinter's Funeral Held in London",
+          "link": "http://artsbeat.blogs.nytimes.com/2008/12/31/pinters-funeral-held-in-london/"
+        },
+        {
+          "size": 125,
+          "name": "Canadian Ballet Seeks to Avoid Bankruptcy",
+          "link": "http://artsbeat.blogs.nytimes.com/2008/12/31/canadian-ballet-seeks-to-avoid-bankruptcy/"
+        }
+      ],
+      "section_name": "Arts"
+    },
+    {
+      "children": [
+        {
+          "size": 25,
+          "name": "Living in Suffern, N.Y."
+        },
+        {
+          "size": 191,
+          "name": "Setting a Price for Co-op Storage",
+          "link": "http://realestateqa.blogs.nytimes.com/2008/12/31/setting-a-price-for-co-op-storage/"
+        },
+        {
+          "size": 326,
+          "name": "The Lingering Matter of a Security Deposit",
+          "link": "http://realestateqa.blogs.nytimes.com/2008/12/31/the-lingering-matter-of-a-security-deposit/"
+        }
+      ],
+      "section_name": "Real Estate"
+    },
+    {
+      "children": [
+        {
+          "size": 41,
+          "name": "Luxurious Cabbage"
+        }
+      ],
+      "section_name": "Style"
+    },
+    {
+      "children": [
+        {
+          "size": 15,
+          "name": "Exposing the Bare Bones"
+        },
+        {
+          "size": 12,
+          "name": "The Makeover",
+          "link": "http://www.nytimes.com/slideshow/2008/12/31/garden/20090101_SCHWARTZ_index.html"
+        }
+      ],
+      "section_name": "Home & Garden"
+    },
+    {
+      "children": [
+        {
+          "size": 19,
+          "name": "What It Means to Be a Jets Fan ...."
+        },
+        {
+          "size": 869,
+          "name": "Hockey Night in Blogdom: What We Want in 2009",
+          "link": "http://slapshot.blogs.nytimes.com/2008/12/31/hockey-night-in-blogdom-what-we-want-in-2009/"
+        },
+        {
+          "size": 183,
+          "name": "Hockey Night in Europe: Spengler Cup Goes to Dinamo Moscow",
+          "link": "http://slapshot.blogs.nytimes.com/2008/12/31/hockey-night-in-europe-spengler-cup-goes-to-dinamo-moscow/"
+        },
+        {
+          "size": 435,
+          "name": "No Buzz for Orange Bowl",
+          "link": "http://thequad.blogs.nytimes.com/2008/12/31/no-buzz-for-orange-bowl/"
+        },
+        {
+          "size": 279,
+          "name": "Update: Red River Recruiting Rivalry",
+          "link": "http://thequad.blogs.nytimes.com/2008/12/31/update-red-river-recruiting-rivalry/"
+        },
+        {
+          "size": 411,
+          "name": "The Low Down on Lowe and the Mets",
+          "link": "http://bats.blogs.nytimes.com/2008/12/31/the-low-down-on-lowe-and-the-mets/"
+        },
+        {
+          "size": 1449,
+          "name": "The Morning Skate: Gearing Up for the Winter Classic",
+          "link": "http://slapshot.blogs.nytimes.com/2008/12/31/the-morning-skate-gearing-up-for-the-winter-classic/"
+        },
+        {
+          "size": 213,
+          "name": "Pennington Wins Comeback Player Award",
+          "link": "http://fifthdown.blogs.nytimes.com/2008/12/31/pennington-wins-comeback-player-award/"
+        },
+        {
+          "size": 2088,
+          "name": "New Year's Eve: The Day in Bowl Games",
+          "link": "http://thequad.blogs.nytimes.com/2008/12/31/new-years-eve-the-day-in-bowl-games/"
+        },
+        {
+          "size": 639,
+          "name": "Our New Year's Wish: Lose That Goal Horn! (and Other Wishes Too)",
+          "link": "http://slapshot.blogs.nytimes.com/2008/12/31/our-new-years-wish-lose-that-goal-horn-and-other-wishes-too/"
+        }
+      ],
+      "section_name": "Sports"
+    },
+    {
+      "children": [
+        {
+          "size": 962,
+          "name": "Cabinet Confirmation Hearings Start Next Week"
+        },
+        {
+          "size": 557,
+          "name": "Obamabilia for Sale",
+          "link": "http://thecaucus.blogs.nytimes.com/2008/12/31/obamabilia-for-sale/"
+        }
+      ],
+      "section_name": "U.S."
+    },
+    {
+      "children": [
+        {
+          "size": 428,
+          "name": "The Joy of Cooking (Videos)"
+        }
+      ],
+      "section_name": "Health"
+    },
+    {
+      "children": [
+        {
+          "size": 823,
+          "name": "Besotted \u2014 Etymologically, That Is"
+        },
+        {
+          "size": 31,
+          "name": "Bloggingheads: What's Israel Thinking?",
+          "link": "http://www.nytimes.com/video/opinion/1194836966228/bloggingheads-what-s-israel-thinking.html"
+        },
+        {
+          "size": 1645,
+          "name": "11 Questions for Obama's Science Team",
+          "link": "http://dotearth.blogs.nytimes.com/2008/12/31/top-questions-for-obama-science-team/"
+        },
+        {
+          "size": 424,
+          "name": "America's Worst Sheriff (Joe Arpaio)",
+          "link": "http://theboard.blogs.nytimes.com/2008/12/31/americas-worst-sheriff-joe-arpaio/"
+        },
+        {
+          "size": 335,
+          "name": "In Connecticut: The A.C.L.U. vs. Common Cause",
+          "link": "http://theboard.blogs.nytimes.com/2008/12/31/in-connecticut-the-aclu-vs-common-cause/"
+        }
+      ],
+      "section_name": "Opinion"
+    },
+    {
+      "children": [
+        {
+          "size": 409,
+          "name": "Who Opposed George Washington for President?"
+        }
+      ],
+      "section_name": "Crosswords/Games"
+    },
+    {
+      "children": [
+        {
+          "size": 35,
+          "name": "The Stadtschloss Site in Berlin"
+        },
+        {
+          "size": 11,
+          "name": "Subway Zoetrope",
+          "link": "http://www.nytimes.com/video/multimedia/1194836952205/subway-zoetrope.html"
+        },
+        {
+          "size": 30,
+          "name": "A View of Unter den Linden",
+          "link": "http://www.nytimes.com/video/multimedia/1194836947704/a-view-of-unter-den-linden.html"
+        },
+        {
+          "size": 38,
+          "name": "The Liebknecht Balcony",
+          "link": "http://www.nytimes.com/video/multimedia/1194836947970/the-liebknecht-balcony.html"
+        },
+        {
+          "size": 25,
+          "name": "Weekend Explorer",
+          "link": "http://www.nytimes.com/video/multimedia/1194833805833/weekend-explorer.html"
+        }
+      ],
+      "section_name": "Multimedia/Photos"
+    },
+    {
+      "children": [
+        {
+          "size": 765,
+          "name": "Happy Cold New Year"
+        },
+        {
+          "size": 625,
+          "name": "Sealing Gaza's Tunnels",
+          "link": "http://thelede.blogs.nytimes.com/2008/12/31/sealing-gazas-tunnels/"
+        },
+        {
+          "size": 708,
+          "name": "All About the Eve",
+          "link": "http://thelede.blogs.nytimes.com/2008/12/31/the-eve-of-destruction/"
+        }
+      ],
+      "section_name": null
+    },
+    {
+      "children": [
+        {
+          "size": 319,
+          "name": "Times Square Bathroom Relief, at Midnight"
+        },
+        {
+          "size": 374,
+          "name": "Court Upholds Fines Against Espada",
+          "link": "http://cityroom.blogs.nytimes.com/2008/12/31/court-upholds-fines-against-espada/"
+        },
+        {
+          "size": 522,
+          "name": "After MetroCard Alibi, Murder Charges Are Dropped",
+          "link": "http://cityroom.blogs.nytimes.com/2008/12/31/after-metrocard-alibi-murder-charges-are-dropped/"
+        },
+        {
+          "size": 1389,
+          "name": "Answers About New York at Night",
+          "link": "http://cityroom.blogs.nytimes.com/2008/12/31/answers-about-new-york-at-night/"
+        },
+        {
+          "size": 317,
+          "name": "Paterson Grants Clemency to 2 Inmates",
+          "link": "http://cityroom.blogs.nytimes.com/2008/12/31/paterson-grants-clemency-to-2-inmates/"
+        },
+        {
+          "size": 283,
+          "name": "Merrill Settles Discrimination Suit",
+          "link": "http://cityroom.blogs.nytimes.com/2008/12/31/merrill-settles-discrimination-suit-by-iranian-muslim/"
+        },
+        {
+          "size": 502,
+          "name": "An Emphatic No to Budget Cuts and Gay Marriage",
+          "link": "http://cityroom.blogs.nytimes.com/2008/12/31/an-emphatic-no-to-budget-cuts-and-gay-marriage/"
+        }
+      ],
+      "section_name": "N.Y. / Region"
+    },
+    {
+      "children": [
+        {
+          "size": 23,
+          "name": "Attacks Continue in Gaza Conflict"
+        },
+        {
+          "size": 386,
+          "name": "Iraqis Take Control, but Bridge Remains Off Limits",
+          "link": "http://atwar.blogs.nytimes.com/2008/12/31/iraqis-take-control-but-bridge-remains-off-limits/"
+        }
+      ],
+      "section_name": "World"
+    },
+    {
+      "children": [
+        {
+          "size": 357,
+          "name": "Zune's Internal Clock Gets in a Tizzy"
+        },
+        {
+          "size": 457,
+          "name": "A Tough Year for Yahoo",
+          "link": "http://bits.blogs.nytimes.com/2008/12/31/a-tough-year-for-yahoo/"
+        },
+        {
+          "size": 347,
+          "name": "The Day the Microsoft Zunes Stood Still",
+          "link": "http://bits.blogs.nytimes.com/2008/12/31/the-day-microsoft-zunes-stood-still/"
+        },
+        {
+          "size": 279,
+          "name": "10 Affordable Accessories for Any Camera",
+          "link": "http://gadgetwise.blogs.nytimes.com/2008/12/31/10-affordable-accessories-for-any-camera/"
+        }
+      ],
+      "section_name": "Technology"
+    }
+  ],
+  "section_name": "Articles"
+}

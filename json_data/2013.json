@@ -1,0 +1,332 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "name": "Dressing Gatsby",
+          "size": 32
+        }
+      ],
+      "section_name": "Movies"
+    },
+    {
+      "children": [
+        {
+          "name": "Watch Live: New Year's Eve in Times Square",
+          "size": 196
+        }
+      ],
+      "section_name": "N.Y. / Region"
+    },
+    {
+      "children": [
+        {
+          "name": "Vitamin E Slows Decline of Some Alzheimer's Patients in Study",
+          "size": 912
+        }
+      ],
+      "section_name": "Health"
+    },
+    {
+      "children": [
+        {
+          "name": "Iris Apfel on the Meaning of Style",
+          "size": 27
+        }
+      ],
+      "section_name": "T Magazine"
+    },
+    {
+      "children": [
+        {
+          "name": "Hawaiian Roots",
+          "size": 31
+        }
+      ],
+      "section_name": "Home & Garden"
+    },
+    {
+      "children": [
+        {
+          "name": "Feeling For | Nicholas Kirkwood's Timeless, Sparkling Shoes",
+          "size": 112
+        }
+      ],
+      "section_name": "T:Style"
+    },
+    {
+      "children": [
+        {
+          "name": "North Korean leader calls for improved ties with the South",
+          "size": 31
+        },
+        {
+          "name": "Music, fireworks and dancing ring in New Year in Rio de Janeiro",
+          "size": 23,
+          "link": "http://www.nytimes.com/video/multimedia/100000002628335/music-fireworks-and-dancing-ring-in-new-year-in-rio-de-janeiro.html"
+        },
+        {
+          "name": "Fireworks on London Eye usher in New Year",
+          "size": 22,
+          "link": "http://www.nytimes.com/video/multimedia/100000002628255/fireworks-on-london-eye-usher-in-new-year.html"
+        },
+        {
+          "name": "Iron Man golden in 2013.",
+          "size": 13,
+          "link": "http://www.nytimes.com/video/multimedia/100000002628226/iron-man-golden-in-2013.html"
+        },
+        {
+          "name": "Syrian hospital packed to the brim with attack victims",
+          "size": 20,
+          "link": "http://www.nytimes.com/video/multimedia/100000002628198/syrian-hospital-packed-to-the-brim-with-attack-victims.html"
+        },
+        {
+          "name": "Fireworks light up the night sky at the Brandenburg Gate, welcoming 2014",
+          "size": 18,
+          "link": "http://www.nytimes.com/video/multimedia/100000002628134/fireworks-light-up-the-night-sky-at-the-brandenburg-gate-welcomi.html"
+        },
+        {
+          "name": "Syrians keep hope for peace in 2014",
+          "size": 35,
+          "link": "http://www.nytimes.com/video/multimedia/100000002628115/syrians-keep-hope-for-peace-in-2014.html"
+        },
+        {
+          "name": "Pope asks for reflection over past year",
+          "size": 30,
+          "link": "http://www.nytimes.com/video/multimedia/100000002628100/pope-asks-for-reflection-over-past-year.html"
+        },
+        {
+          "name": "Russians and visitors welcome 2014 in Red Square",
+          "size": 20,
+          "link": "http://www.nytimes.com/video/multimedia/100000002628084/russians-and-visitors-welcome-2014-in-red-square.html"
+        },
+        {
+          "name": "Pope asks for reflection over past year",
+          "size": 31,
+          "link": "http://www.nytimes.com/video/multimedia/100000002628041/pope-asks-for-reflection-over-past-year.html"
+        },
+        {
+          "name": "Stocks 2013: one for the record books",
+          "size": 29,
+          "link": "http://www.nytimes.com/video/multimedia/100000002627986/stocks-2013-one-for-the-record-books.html"
+        },
+        {
+          "name": "Dubai puts on spectacular New Year fireworks display",
+          "size": 23,
+          "link": "http://www.nytimes.com/video/multimedia/100000002627911/dubai-puts-on-spectacular-new-year-fireworks-display.html"
+        },
+        {
+          "name": "It's a bird, it's a plane, it's Super Market",
+          "size": 36,
+          "link": "http://www.nytimes.com/video/multimedia/100000002627879/its-a-bird-its-a-plane-its-super-market.html"
+        },
+        {
+          "name": "Colorado ringing in the New Year with legalized pot stores",
+          "size": 15,
+          "link": "http://www.nytimes.com/video/multimedia/100000002627801/colorado-ringing-in-the-new-year-with-legalized-pot-stores.html"
+        },
+        {
+          "name": "Putin vows \"complete annihilation\" of those responsible for Volgograd attacks",
+          "size": 24,
+          "link": "http://www.nytimes.com/video/multimedia/100000002627727/putin-vows-complete-annihilation-of-those-responsible-for-volgog.html"
+        },
+        {
+          "name": "Trapped passengers in Antarctica ring in 2014",
+          "size": 21,
+          "link": "http://www.nytimes.com/video/multimedia/100000002627506/trapped-passengers-in-antarctica-ring-in-2014.html"
+        },
+        {
+          "name": "Schumacher admirers react to news of slightly improved condition",
+          "size": 32,
+          "link": "http://www.nytimes.com/video/multimedia/100000002627484/schumacher-admirers-react-to-news-of-slightly-improved-condition.html"
+        },
+        {
+          "name": "Taiwan welcomes the New Year with a bang",
+          "size": 19,
+          "link": "http://www.nytimes.com/video/multimedia/100000002627402/taiwan-welcomes-the-new-year-with-a-bang.html"
+        }
+      ],
+      "section_name": "Multimedia/Photos"
+    },
+    {
+      "children": [
+        {
+          "name": "Pictures of the Day: India and Elsewhere",
+          "size": 13
+        }
+      ],
+      "section_name": "Multimedia"
+    },
+    {
+      "children": [
+        {
+          "name": "Celebrating Survival in Each Year's Final Clock Tick",
+          "size": 720
+        },
+        {
+          "name": "The Law That Saved the Bald Eagle",
+          "size": 537,
+          "link": "http://takingnote.blogs.nytimes.com/2013/12/31/the-law-that-saved-the-bald-eagle/"
+        },
+        {
+          "name": "The Grand Old Primate Party?",
+          "size": 231,
+          "link": "http://takingnote.blogs.nytimes.com/2013/12/31/the-grand-old-primate-party/"
+        },
+        {
+          "name": "Rescue Efforts for Trapped Antarctic Voyage Disrupt Serious Science",
+          "size": 944,
+          "link": "http://dotearth.blogs.nytimes.com/2013/12/31/rescue-effort-for-trapped-antarctic-voyage-disrupts-serious-science/"
+        },
+        {
+          "name": "Accuracy, Secrecy and Equality: What Mattered to Times Readers in 2013",
+          "size": 920,
+          "link": "http://publiceditor.blogs.nytimes.com/2013/12/31/accuracy-secrecy-and-equality-what-mattered-to-times-readers-in-2013/"
+        },
+        {
+          "name": "DeBlasio's First Move: Carriage Horses",
+          "size": 399,
+          "link": "http://takingnote.blogs.nytimes.com/2013/12/31/deblasios-first-move-carriage-horses/"
+        }
+      ],
+      "section_name": "Opinion"
+    },
+    {
+      "children": [
+        {
+          "name": "American Icon Iris Apfel on Individualism, Freedom of Expression and Great Style",
+          "size": 94
+        }
+      ],
+      "section_name": "false"
+    },
+    {
+      "children": [
+        {
+          "name": "Clothes and Character: 'The Great Gatsby'",
+          "size": 1268
+        },
+        {
+          "name": "Mixed Results for WNET Membership Drive",
+          "size": 167,
+          "link": "http://artsbeat.blogs.nytimes.com/2013/12/31/mixed-results-for-wnet-membership-drive/"
+        },
+        {
+          "name": "Video: Jonah Hill on 'The Wolf of Wall Street'",
+          "size": 55,
+          "link": "http://carpetbagger.blogs.nytimes.com/2013/12/31/video-jonah-hill-on-the-wolf-of-wall-street/"
+        }
+      ],
+      "section_name": "Arts"
+    },
+    {
+      "children": [
+        {
+          "name": "Not Shy About Expressing Opinions",
+          "size": 451
+        }
+      ],
+      "section_name": "Crosswords/Games"
+    },
+    {
+      "children": [
+        {
+          "name": "Kerry\u2019s Peace Ambitions",
+          "size": 15
+        },
+        {
+          "name": "Q. & A.: Ai Weiwei on Creating Art in a Cage",
+          "size": 2023,
+          "link": "http://sinosphere.blogs.nytimes.com/2013/12/31/q-a-ai-weiwei-on-creating-art-in-a-cage/"
+        },
+        {
+          "name": "Lost in the Storm",
+          "size": 23,
+          "link": "http://www.nytimes.com/video/world/asia/100000002623234/lost-in-the-storm.html"
+        },
+        {
+          "name": "In India, Complications for Education",
+          "size": 37,
+          "link": "http://www.nytimes.com/video/world/asia/100000002624357/in-india-complications-for-education.html"
+        }
+      ],
+      "section_name": "World"
+    },
+    {
+      "children": [
+        {
+          "name": "The Purrpose Driven Life",
+          "size": 1152
+        }
+      ],
+      "section_name": "Magazine"
+    },
+    {
+      "children": [
+        {
+          "name": "For Stocks, an Amazingly Good Year",
+          "size": 1078
+        },
+        {
+          "name": "Cohen Cuts Price on N.Y. Apartment, to $98 Million",
+          "size": 358,
+          "link": "http://dealbook.nytimes.com/2013/12/31/steven-cohen-cuts-price-on-n-y-apartment-to-98-million/"
+        }
+      ],
+      "section_name": "Business Day"
+    },
+    {
+      "children": [
+        {
+          "name": "New Year's Eve, Stuck in a Church in Bangui",
+          "size": 443
+        },
+        {
+          "name": "French Comic's 'Anti-System' Salute Is Frequently Used to Mock Jewish Suffering",
+          "size": 1667,
+          "link": "http://thelede.blogs.nytimes.com/2013/12/31/french-comics-anti-system-salute-is-frequently-used-to-mock-jewish-suffering/"
+        },
+        {
+          "name": "Colorado Counts Down to Legalized Marijuana Use",
+          "size": 615,
+          "link": "http://thelede.blogs.nytimes.com/2013/12/31/colorado-counts-down-to-legalized-marijuana-use/"
+        },
+        {
+          "name": "When Stranded in the Antarctic, Get Ready and Wait ",
+          "size": 842,
+          "link": "http://thelede.blogs.nytimes.com/2013/12/31/when-stranded-in-the-antarctic-get-ready-and-wait/"
+        }
+      ],
+      "section_name": null
+    },
+    {
+      "children": [
+        {
+          "name": "Is This a Solution to Uncomfortable Airplane Seating?",
+          "size": 382
+        }
+      ],
+      "section_name": "Travel"
+    },
+    {
+      "children": [
+        {
+          "name": "Charities That Inspire Kids: Cora Dance",
+          "size": 314
+        }
+      ],
+      "section_name": "Style"
+    },
+    {
+      "children": [
+        {
+          "name": "Apple Says It Is 'Unaware' of N.S.A. iPhone Hack Program",
+          "size": 448
+        }
+      ],
+      "section_name": "Technology"
+    }
+  ],
+  "section_name": "Articles",
+  "size": 500
+}

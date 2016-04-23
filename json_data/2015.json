@@ -1,0 +1,288 @@
+{
+  "section_name": "Articles",
+  "children": [
+    {
+      "section_name": "U.S.",
+      "children": [
+        {
+          "name": "Federal Judge Blocks Arkansas Restrictions on Abortion Pill",
+          "size": 406
+        },
+        {
+          "link": "http://www.nytimes.com/aponline/2015/12/31/us/ap-us-dungeness-crabs-california.html",
+          "name": "Dungeness Crabs Safe to Eat in Parts of California",
+          "size": 253
+        },
+        {
+          "link": "http://www.nytimes.com/aponline/2015/12/31/us/ap-us-grandma-attacks-defendant.html",
+          "name": "Great-Grandma Convicted in Attack on Las Vegas DUI Defendant",
+          "size": 215
+        },
+        {
+          "link": "http://www.nytimes.com/aponline/2015/12/31/us/ap-us-rose-parade.html",
+          "name": "Rose Parade to See 'Unprecedented' Amount of Security",
+          "size": 691
+        },
+        {
+          "link": "http://www.nytimes.com/aponline/2015/12/31/us/ap-us-couch-death-boy.html",
+          "name": "Man Charged With Suffocating Son Against Couch",
+          "size": 143
+        },
+        {
+          "link": "http://www.nytimes.com/aponline/2015/12/31/us/ap-us-obit-wayne-rogers.html",
+          "name": "Wayne Rogers, Trapper John on 'M.A.S.H.,' Dies at 82",
+          "size": 487
+        },
+        {
+          "link": "http://www.nytimes.com/aponline/2015/12/31/us/ap-fbc-playoff-orange-bowl.html",
+          "name": "No More Clemsoning: Tigers Headed to National Title Game",
+          "size": 971
+        },
+        {
+          "link": "http://www.nytimes.com/aponline/2015/12/31/us/ap-us-alaska-plane-crash-qa.html",
+          "name": "A Look at Facts, Lingering Questions in Alaska Plane Crash",
+          "size": 714
+        },
+        {
+          "link": "http://www.nytimes.com/aponline/2015/12/31/us/ap-fbc-playoff-cotton-bowl-the-latest.html",
+          "name": "THE LATEST: Bama Routs Michigan St 38-0; Heads to Title Game",
+          "size": 2192
+        }
+      ]
+    },
+    {
+      "section_name": "Sports",
+      "children": [
+        {
+          "name": "Lucic Scores to Help Kings Beat Flames 4-1",
+          "size": 144
+        },
+        {
+          "link": "http://www.nytimes.com/aponline/2015/12/31/sports/ncaafootball/ap-fbc-t25-playoff-cotton-bowl-michigan-st.html",
+          "name": "MSU's Cook Falls Flat in Cotton Replay, With Higher Stakes",
+          "size": 761
+        },
+        {
+          "link": "http://www.nytimes.com/aponline/2015/12/31/sports/basketball/ap-bkn-trail-blazers-jazz.html",
+          "name": "Burke Scores 27 as Jazz Beat Trail Blazers 109-96",
+          "size": 341
+        },
+        {
+          "link": "http://www.nytimes.com/aponline/2015/12/31/sports/hockey/ap-hkn-predators-stars.html",
+          "name": "Mattias Janmark's Goal Helps Stars Beat Predators 5-1",
+          "size": 123
+        },
+        {
+          "link": "http://www.nytimes.com/aponline/2015/12/31/sports/hockey/ap-hkn-blackhawks-avalanche.html",
+          "name": "Toews' Goal in OT Lifts Blackhawks to 4-3 Win Over Avalanche",
+          "size": 358
+        },
+        {
+          "link": "http://www.nytimes.com/aponline/2015/12/31/sports/basketball/ap-bkn-suns-thunder.html",
+          "name": "Westbrook Leads Thunder to 110-106 Victory Over Suns",
+          "size": 314
+        },
+        {
+          "link": "http://www.nytimes.com/aponline/2015/12/31/sports/hockey/ap-hkn-wild-blues.html",
+          "name": "Dubnyk Makes 33 Saves, Wild Beat Blues 3-1",
+          "size": 343
+        },
+        {
+          "link": "http://www.nytimes.com/aponline/2015/12/31/sports/basketball/ap-bkn-clippers-pelicans.html",
+          "name": "Redick Leads Clippers Past Pelicans, 95-89",
+          "size": 784
+        },
+        {
+          "link": "http://www.nytimes.com/reuters/2015/12/31/sports/basketball/31reuters-nba-rockets.html",
+          "name": "Thompson Fires Late Surge as Warriors Ground Rockets",
+          "size": 412
+        },
+        {
+          "link": "http://www.nytimes.com/aponline/2015/12/31/sports/basketball/ap-bkn-warriors-rockets.html",
+          "name": "Thompson Scores 38 Points, Warriors Beat Rockets 114-110",
+          "size": 845
+        },
+        {
+          "link": "http://www.nytimes.com/aponline/2015/12/31/sports/hockey/ap-hkn-nhl-capsules.html",
+          "name": "NHL Capsules",
+          "size": 1124
+        },
+        {
+          "link": "http://www.nytimes.com/aponline/2015/12/31/sports/hockey/ap-hkn-capitals-hurricanes.html",
+          "name": "Hurricanes End Capitals' Winning Streak at 9",
+          "size": 439
+        },
+        {
+          "link": "http://www.nytimes.com/aponline/2015/12/31/sports/hockey/ap-hkn-penguins-red-wings.html",
+          "name": "Crosby and Malkin Lift Penguins to 5-2 Win Over Red Wings",
+          "size": 352
+        },
+        {
+          "link": "http://www.nytimes.com/aponline/2015/12/31/sports/hockey/ap-hkn-islanders-sabres.html",
+          "name": "Kulemin Scores in 3rd Straight, Islanders Beat Sabres 2-1",
+          "size": 353
+        },
+        {
+          "link": "http://www.nytimes.com/aponline/2015/12/31/sports/basketball/ap-bkn-timberwolves-pistons.html",
+          "name": "Drummond Powers Pistons Past Timberwolves 115-90",
+          "size": 392
+        },
+        {
+          "link": "http://www.nytimes.com/reuters/2015/12/31/sports/baseball/31reuters-baseball-dodgers-maeda.html",
+          "name": "Japanese Pitcher Maeda to Join Dodgers: Reports",
+          "size": 270
+        },
+        {
+          "link": "http://www.nytimes.com/aponline/2015/12/31/sports/ncaafootball/ap-fbc-playoff-orange-bowl-oklahoma.html",
+          "name": "Oklahoma's Season Ends With Semifinal Loss to Clemson",
+          "size": 809
+        }
+      ]
+    },
+    {
+      "section_name": "Business Day",
+      "children": [
+        {
+          "name": "China\u2019s Factory Activity Shrinks for a Fifth Month",
+          "size": 703
+        },
+        {
+          "link": "http://www.nytimes.com/reuters/2015/12/31/business/31reuters-autos-takata.html",
+          "name": "Honda Confirms Ninth Death Linked to Takata Airbag",
+          "size": 399
+        },
+        {
+          "link": "http://www.nytimes.com/reuters/2015/12/31/business/31reuters-italy-apple-tax.html",
+          "name": "Apple to Pay Italy 318 Million Euros, Sign Tax Deal: Source",
+          "size": 564
+        }
+      ]
+    },
+    {
+      "section_name": "Arts",
+      "children": [
+        {
+          "name": "Wayne Rogers, Trapper John on TV's 'M*A*S*H', Dies at 82",
+          "size": 729
+        },
+        {
+          "link": "http://www.nytimes.com/2015/12/31/arts/international/peter-latz-rehabilitating-postindustrial-landscapes.html",
+          "name": "Peter Latz: Rehabilitating Postindustrial Landscapes",
+          "size": 650
+        }
+      ]
+    },
+    {
+      "section_name": "Technology",
+      "children": [
+        {
+          "name": "Using The Force? No, It's an Apple Watch Flying This Drone",
+          "size": 552
+        }
+      ]
+    },
+    {
+      "section_name": "Paid Death Notices",
+      "children": [
+        {
+          "name": "Paid Notice: Deaths  KELLY, ELLSWORTH ",
+          "size": 88
+        },
+        {
+          "link": "http://www.legacy.com/Link.asp?I=LS000177103836",
+          "name": "Paid Notice: Deaths  DICKLER, RUTH ",
+          "size": 122
+        },
+        {
+          "link": "http://www.legacy.com/Link.asp?I=LS000177103835",
+          "name": "Paid Notice: Deaths  REED, DOLORES ",
+          "size": 94
+        },
+        {
+          "link": "http://www.legacy.com/Link.asp?I=LS000177103834",
+          "name": "Paid Notice: Deaths  FREILICH, GERALD ",
+          "size": 264
+        },
+        {
+          "link": "http://www.legacy.com/Link.asp?I=LS000177103833",
+          "name": "Paid Notice: Deaths  METZGER, PHOEBE ",
+          "size": 93
+        },
+        {
+          "link": "http://www.legacy.com/Link.asp?I=LS000177103831",
+          "name": "Paid Notice: Deaths  DWEK, JOE ",
+          "size": 104
+        },
+        {
+          "link": "http://www.legacy.com/Link.asp?I=LS000177103830",
+          "name": "Paid Notice: Deaths  RICE, MARGARET ",
+          "size": 61
+        },
+        {
+          "link": "http://www.legacy.com/Link.asp?I=LS000177103829",
+          "name": "Paid Notice: Deaths  GLANTZ, IRWIN ",
+          "size": 117
+        },
+        {
+          "link": "http://www.legacy.com/Link.asp?I=LS000177103828",
+          "name": "Paid Notice: Deaths  SHORT, STEPHEN ",
+          "size": 140
+        },
+        {
+          "link": "http://www.legacy.com/Link.asp?I=LS000177103827",
+          "name": "Paid Notice: Deaths  DEIN, GITTIE ",
+          "size": 10
+        },
+        {
+          "link": "http://www.legacy.com/Link.asp?I=LS000177103826",
+          "name": "Paid Notice: Deaths  RATNER, LAURA ",
+          "size": 83
+        }
+      ]
+    },
+    {
+      "section_name": "Crosswords & Games",
+      "children": [
+        {
+          "name": "Scream One&#8217;s Head Off",
+          "size": 882
+        }
+      ]
+    },
+    {
+      "section_name": "World",
+      "children": [
+        {
+          "name": "North Korean Leader Talks War but Doesn't Comment on Nukes",
+          "size": 487
+        },
+        {
+          "link": "http://www.nytimes.com/aponline/2015/12/31/world/africa/ap-af-rwanda-term-limits.html",
+          "name": "Rwandan President Announces He Will Seek 3rd Term",
+          "size": 301
+        },
+        {
+          "link": "http://www.nytimes.com/aponline/2015/12/31/world/asia/ap-ibc-as-china-landslide.html",
+          "name": "Authorities in China Arrest 11 in Deadly Landslide",
+          "size": 254
+        },
+        {
+          "link": "http://www.nytimes.com/reuters/2015/12/31/world/asia/31reuters-china-landslide.html",
+          "name": "China Arrests 11 for Deadly Landslide, Death Toll Now 12",
+          "size": 197
+        },
+        {
+          "link": "http://www.nytimes.com/reuters/2015/12/31/world/europe/31reuters-security-germany-islamicstate.html",
+          "name": "Germany Says It Has Information Islamic State Planned Suicide Attacks in Munich",
+          "size": 86
+        },
+        {
+          "link": "http://www.nytimes.com/reuters/2015/12/31/world/africa/31reuters-colorado-somalis-meatpacking.html",
+          "name": "Somali Workers Fired at Colorado Packing Plant in Prayer Dispute",
+          "size": 407
+        }
+      ]
+    }
+  ],
+  "size": 500
+}

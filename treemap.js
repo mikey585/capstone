@@ -4,6 +4,8 @@ $(document).ready(function() {
 });
 
 function treemap() {
+  var search = parseInt(document.getElementById("search").value);
+
   var margin = {top: 40, right: 10, bottom: 10, left: 10},
     width = 960 - margin.left - margin.right,
     height = 500 - margin.top - margin.bottom;
@@ -23,7 +25,7 @@ function treemap() {
         .style("top", margin.top + "px")
         .style("margin", "auto");
 
-        d3.json("json_result2.json", function(error, root) {
+        d3.json("./json_data/" + search + ".json", function(error, root) {
         if (error) throw error;
 
         var node = div.datum(root).selectAll(".node")
