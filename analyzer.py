@@ -5,6 +5,7 @@ import json
 import urllib.request
 import urllib.response
 import urllib.error
+import random
 from nytimesarticle import articleAPI
 
 api = articleAPI("93fc659744f5238f6f95d464865562b8:16:74068039")
@@ -47,7 +48,7 @@ def parse_articles():
         articles = api.search(
             begin_date =  int(date + "0101"),
             end_date = int(date + "1231"),
-            page = i)
+            page = random.randrange(10))
 
         for i in articles['response']['docs']:
             if (i["section_name"] in d.keys()):
