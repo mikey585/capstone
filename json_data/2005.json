@@ -1,178 +1,13 @@
 {
-  "size": 500,
   "section_name": "Articles",
+  "size": 500,
   "children": [
     {
-      "section_name": "Real Estate",
+      "section_name": "Front Page; U.S.",
       "children": [
         {
-          "size": 241,
-          "name": "Believing Is Seeing"
-        },
-        {
-          "size": 90,
-          "link": "http://walkthrough.blogs.nytimes.com/2005/12/31/end-of-the-arms-race/",
-          "name": "End of the ARMS Race"
-        },
-        {
-          "size": 196,
-          "link": "http://walkthrough.blogs.nytimes.com/2005/12/31/the-free-ride-effect/",
-          "name": "The Free-Ride Effect"
-        }
-      ]
-    },
-    {
-      "section_name": "World",
-      "children": [
-        {
-          "size": 75,
-          "name": "World Briefing | Europe: Britain: London Set For Subway Strike"
-        },
-        {
-          "size": 28,
-          "link": "http://query.nytimes.com/gst/fullpage.html?res=9407EFDC1030F932A05751C1A9639C8B63",
-          "name": "World Briefing | Asia: Pakistan: Avalanche Kills 24"
-        }
-      ]
-    },
-    {
-      "section_name": "Opinion",
-      "children": [
-        {
-          "size": 707,
-          "name": "More on the Eavesdropping Article"
-        },
-        {
-          "size": 1153,
-          "link": "http://publiceditor.blogs.nytimes.com/2005/12/31/readers-respond-to-timing-of-eavesdropping-article/",
-          "name": "Readers Respond to Timing of Eavesdropping Article"
-        },
-        {
-          "size": 306,
-          "link": "http://query.nytimes.com/gst/fullpage.html?res=9C05E1DD1030F932A05751C1A9639C8B63",
-          "name": "Closing Time; A Little Moonlight"
-        },
-        {
-          "size": 162,
-          "link": "http://query.nytimes.com/gst/fullpage.html?res=9A00EFDD1030F932A05751C1A9639C8B63",
-          "name": "Middle-Class Kids in Public Schools"
-        },
-        {
-          "size": 163,
-          "link": "http://query.nytimes.com/gst/fullpage.html?res=950CEFDD1030F932A05751C1A9639C8B63",
-          "name": "Middle-Class Kids in Public Schools"
-        },
-        {
-          "size": 510,
-          "link": "http://www.nytimes.com/2005/12/31/opinion/31sat4.html",
-          "name": "Well-Spent Prison Time"
-        },
-        {
-          "size": 214,
-          "link": "http://query.nytimes.com/gst/fullpage.html?res=9401EFDD1030F932A05751C1A9639C8B63",
-          "name": "Middle-Class Kids in Public Schools"
-        },
-        {
-          "size": 306,
-          "link": "http://query.nytimes.com/gst/fullpage.html?res=9C05E1DD1030F932A05751C1A9639C8B63",
-          "name": "Closing Time; A Little Moonlight"
-        },
-        {
-          "size": 162,
-          "link": "http://query.nytimes.com/gst/fullpage.html?res=9A00EFDD1030F932A05751C1A9639C8B63",
-          "name": "Middle-Class Kids in Public Schools"
-        },
-        {
-          "size": 163,
-          "link": "http://query.nytimes.com/gst/fullpage.html?res=950CEFDD1030F932A05751C1A9639C8B63",
-          "name": "Middle-Class Kids in Public Schools"
-        },
-        {
-          "size": 107,
-          "link": "http://query.nytimes.com/gst/fullpage.html?res=9803E5DE1030F932A05751C1A9639C8B63",
-          "name": "Closing Time; The Waterclock and the Hourglass"
-        },
-        {
-          "size": 145,
-          "link": "http://query.nytimes.com/gst/fullpage.html?res=9D03EEDD1030F932A05751C1A9639C8B63",
-          "name": "To Reflect, Or Not to Reflect"
-        },
-        {
-          "size": 70,
-          "link": "http://query.nytimes.com/gst/fullpage.html?res=9C04EEDD1030F932A05751C1A9639C8B63",
-          "name": "Latin America and Us"
-        },
-        {
-          "size": 213,
-          "link": "http://query.nytimes.com/gst/fullpage.html?res=9404E3DE1030F932A05751C1A9639C8B63",
-          "name": "Closing Time; The Beautiful Quickness of a Street Boy"
-        }
-      ]
-    },
-    {
-      "section_name": "U.S.",
-      "children": [
-        {
-          "size": 992,
-          "name": "Boston Archdiocese Halves Offers in Open Abuse Cases"
-        },
-        {
-          "size": 992,
-          "link": "http://www.nytimes.com/2005/12/31/national/31priest.html",
-          "name": "Boston Archdiocese Halves Offers in Open Abuse Cases"
-        }
-      ]
-    },
-    {
-      "section_name": "Corrections; Opinion",
-      "children": [
-        {
-          "size": 20,
-          "name": "Correction"
-        },
-        {
-          "size": 20,
-          "link": "http://query.nytimes.com/gst/fullpage.html?res=9B0CE2DD1030F932A05751C1A9639C8B63",
-          "name": "Correction"
-        }
-      ]
-    },
-    {
-      "section_name": "Paid Death Notices",
-      "children": [
-        {
-          "size": 56,
-          "name": "Paid Notice: Deaths   GROVER, HENRY CUSHING (HANK)"
-        },
-        {
-          "size": 106,
-          "link": "http://query.nytimes.com/gst/fullpage.html?res=9A06E3DB1030F932A05751C1A9639C8B63",
-          "name": "Paid Notice: Deaths   BLUMENKOPF, LOLA"
-        },
-        {
-          "size": 56,
-          "link": "http://query.nytimes.com/gst/fullpage.html?res=9D03E3DB1030F932A05751C1A9639C8B63",
-          "name": "Paid Notice: Deaths   GROVER, HENRY CUSHING (HANK)"
-        },
-        {
-          "size": 14,
-          "link": "http://query.nytimes.com/gst/fullpage.html?res=9C01E2DB1030F932A05751C1A9639C8B63",
-          "name": "Paid Notice: Memorials   BARKIN, PAULA LEE"
-        },
-        {
-          "size": 75,
-          "link": "http://query.nytimes.com/gst/fullpage.html?res=9B07E2DB1030F932A05751C1A9639C8B63",
-          "name": "Paid Notice: Deaths   SCHICK, ELLIOT"
-        },
-        {
-          "size": 203,
-          "link": "http://query.nytimes.com/gst/fullpage.html?res=990DE3DB1030F932A05751C1A9639C8B63",
-          "name": "Paid Notice: Deaths   KEENE, CONSTANCE"
-        },
-        {
-          "size": 14,
-          "link": "http://query.nytimes.com/gst/fullpage.html?res=9C01E2DB1030F932A05751C1A9639C8B63",
-          "name": "Paid Notice: Memorials   BARKIN, PAULA LEE"
+          "name": "CRIMINAL INQUIRY OPENS INTO LEAK IN EAVESDROPPING",
+          "size": 1074
         }
       ]
     },
@@ -180,117 +15,18 @@
       "section_name": "Business",
       "children": [
         {
-          "size": 181,
-          "name": "Suit Accuses Google of Infringing Patents"
+          "name": "Suit Accuses Google of Infringing Patents",
+          "size": 181
         },
         {
+          "name": "Suit Accuses Google of Infringing Patents",
           "size": 181,
-          "link": "http://www.nytimes.com/2005/12/31/technology/31soft.html",
-          "name": "Suit Accuses Google of Infringing Patents"
+          "link": "http://www.nytimes.com/2005/12/31/technology/31soft.html"
         },
         {
+          "name": "United Airlines Financial Plan Gains Approval From Creditors",
           "size": 398,
-          "link": "http://www.nytimes.com/2005/12/31/business/31ual.html",
-          "name": "United Airlines Financial Plan Gains Approval From Creditors"
-        },
-        {
-          "size": 752,
-          "link": "http://www.nytimes.com/2005/12/31/business/31instincts.html",
-          "name": "Recalculating What Money Can't Buy"
-        }
-      ]
-    },
-    {
-      "section_name": "Arts",
-      "children": [
-        {
-          "size": 356,
-          "name": "Note to Inattentive Defenders: Beware the Too-Casual Discard"
-        }
-      ]
-    },
-    {
-      "section_name": "Technology; Business",
-      "children": [
-        {
-          "size": 613,
-          "name": "Shoppers of the World, Unite"
-        },
-        {
-          "size": 613,
-          "link": "http://www.nytimes.com/2005/12/31/technology/31online.ready.html",
-          "name": "Shoppers of the World, Unite"
-        }
-      ]
-    },
-    {
-      "section_name": null,
-      "children": [
-        {
-          "size": 685,
-          "name": "Warriors' One-Two Punch Floors Dallas"
-        }
-      ]
-    },
-    {
-      "section_name": "Front Page; U.S.",
-      "children": [
-        {
-          "size": 1074,
-          "name": "CRIMINAL INQUIRY OPENS INTO LEAK IN EAVESDROPPING"
-        },
-        {
-          "size": 1074,
-          "link": "http://www.nytimes.com/2005/12/31/politics/31inquire.html",
-          "name": "CRIMINAL INQUIRY OPENS INTO LEAK IN EAVESDROPPING"
-        }
-      ]
-    },
-    {
-      "section_name": "New York and Region",
-      "children": [
-        {
-          "size": 1225,
-          "name": "News Summary"
-        },
-        {
-          "size": 392,
-          "link": "http://www.nytimes.com/2005/12/31/nyregion/31mayor.html",
-          "name": "Handing Over $9, Mayor Starts Second Term"
-        },
-        {
-          "size": 1225,
-          "link": "http://query.nytimes.com/gst/fullpage.html?res=9507EEDD1030F932A05751C1A9639C8B63",
-          "name": "News Summary"
-        },
-        {
-          "size": 392,
-          "link": "http://www.nytimes.com/2005/12/31/nyregion/31mayor.html",
-          "name": "Handing Over $9, Mayor Starts Second Term"
-        },
-        {
-          "size": 1085,
-          "link": "http://www.nytimes.com/2005/12/31/national/31beliefs.html",
-          "name": "The life and death of a leading lay Catholic, and the profound change in the currents of her church."
-        },
-        {
-          "size": 1085,
-          "link": "http://www.nytimes.com/2005/12/31/national/31beliefs.html",
-          "name": "The life and death of a leading lay Catholic, and the profound change in the currents of her church."
-        }
-      ]
-    },
-    {
-      "section_name": "Corrections; New York and Region",
-      "children": [
-        {
-          "size": 89,
-          "name": "Corrections"
-        },
-        {
-          "size": 38,
-          "link": "http://query.nytimes.com/gst/fullpage.html?res=9C07E5DB1030F932A05751C1A9639C8B63",
-          "name": "Corrections"
+          "link": "http://www.nytimes.com/2005/12/31/business/31ual.html"
         }
       ]
     },
@@ -298,13 +34,281 @@
       "section_name": "Sports",
       "children": [
         {
-          "size": 505,
-          "name": "State Grants Ailing NYRA A Bailout of $30 Million"
+          "name": "State Grants Ailing NYRA A Bailout of $30 Million",
+          "size": 505
         },
         {
+          "name": "U.S. Women Accuse a Coach of Harassment",
           "size": 1269,
-          "link": "http://www.nytimes.com/2005/12/31/sports/othersports/31olympic.html",
-          "name": "U.S. Women Accuse a Coach of Harassment"
+          "link": "http://www.nytimes.com/2005/12/31/sports/othersports/31olympic.html"
+        }
+      ]
+    },
+    {
+      "section_name": "Corrections; New York and Region",
+      "children": [
+        {
+          "name": "Corrections",
+          "size": 89
+        },
+        {
+          "name": "Corrections",
+          "size": 48,
+          "link": "http://query.nytimes.com/gst/fullpage.html?res=9506E5DB1030F932A05751C1A9639C8B63"
+        }
+      ]
+    },
+    {
+      "section_name": "Corrections; Opinion",
+      "children": [
+        {
+          "name": "Correction",
+          "size": 20
+        },
+        {
+          "name": "Correction",
+          "size": 20,
+          "link": "http://query.nytimes.com/gst/fullpage.html?res=9B0CE2DD1030F932A05751C1A9639C8B63"
+        }
+      ]
+    },
+    {
+      "section_name": "World; Health",
+      "children": [
+        {
+          "name": "Amid Confusion, Journal Retracts Korean's Stem Cell Paper",
+          "size": 566
+        }
+      ]
+    },
+    {
+      "section_name": "Paid Death Notices",
+      "children": [
+        {
+          "name": "Paid Notice: Deaths   GROVER, HENRY CUSHING (HANK)",
+          "size": 56
+        },
+        {
+          "name": "Paid Notice: Deaths   BLUMENKOPF, LOLA",
+          "size": 106,
+          "link": "http://query.nytimes.com/gst/fullpage.html?res=9A06E3DB1030F932A05751C1A9639C8B63"
+        },
+        {
+          "name": "Paid Notice: Deaths   GROVER, HENRY CUSHING (HANK)",
+          "size": 56,
+          "link": "http://query.nytimes.com/gst/fullpage.html?res=9D03E3DB1030F932A05751C1A9639C8B63"
+        },
+        {
+          "name": "Paid Notice: Memorials   BARKIN, PAULA LEE",
+          "size": 14,
+          "link": "http://query.nytimes.com/gst/fullpage.html?res=9C01E2DB1030F932A05751C1A9639C8B63"
+        },
+        {
+          "name": "Paid Notice: Deaths   SCHICK, ELLIOT",
+          "size": 75,
+          "link": "http://query.nytimes.com/gst/fullpage.html?res=9B07E2DB1030F932A05751C1A9639C8B63"
+        },
+        {
+          "name": "Paid Notice: Deaths   KEENE, CONSTANCE",
+          "size": 203,
+          "link": "http://query.nytimes.com/gst/fullpage.html?res=990DE3DB1030F932A05751C1A9639C8B63"
+        }
+      ]
+    },
+    {
+      "section_name": "U.S.",
+      "children": [
+        {
+          "name": "Boston Archdiocese Halves Offers in Open Abuse Cases",
+          "size": 992
+        },
+        {
+          "name": "Wanting Facts Firsthand, Teenager Makes Secret Trip to Iraq",
+          "size": 875,
+          "link": "http://www.nytimes.com/2005/12/31/national/31teen.html"
+        }
+      ]
+    },
+    {
+      "section_name": "World",
+      "children": [
+        {
+          "name": "World Briefing | Europe: Britain: London Set For Subway Strike",
+          "size": 75
+        },
+        {
+          "name": "Jailed Palestinian Urges Voters to Back Fatah",
+          "size": 859,
+          "link": "http://www.nytimes.com/2005/12/31/international/middleeast/31mideast.html"
+        },
+        {
+          "name": "No Buses Roll From Gaza To West Bank, Despite Deal",
+          "size": 1523,
+          "link": "http://www.nytimes.com/2005/12/31/international/middleeast/31convoy.html"
+        },
+        {
+          "name": "Diplomat Says Britain Used Data Gotten By Torture",
+          "size": 769,
+          "link": "http://www.nytimes.com/2005/12/31/international/europe/31britain.html"
+        }
+      ]
+    },
+    {
+      "section_name": "Front Page; New York and Region",
+      "children": [
+        {
+          "name": "INSIDE",
+          "size": 224
+        }
+      ]
+    },
+    {
+      "section_name": "New York and Region",
+      "children": [
+        {
+          "name": "News Summary",
+          "size": 1225
+        },
+        {
+          "name": "Handing Over $9, Mayor Starts Second Term",
+          "size": 392,
+          "link": "http://www.nytimes.com/2005/12/31/nyregion/31mayor.html"
+        },
+        {
+          "name": "News Summary",
+          "size": 1225,
+          "link": "http://query.nytimes.com/gst/fullpage.html?res=9507EEDD1030F932A05751C1A9639C8B63"
+        },
+        {
+          "name": "Handing Over $9, Mayor Starts Second Term",
+          "size": 392,
+          "link": "http://www.nytimes.com/2005/12/31/nyregion/31mayor.html"
+        },
+        {
+          "name": "The life and death of a leading lay Catholic, and the profound change in the currents of her church.",
+          "size": 1085,
+          "link": "http://www.nytimes.com/2005/12/31/national/31beliefs.html"
+        }
+      ]
+    },
+    {
+      "section_name": "Real Estate",
+      "children": [
+        {
+          "name": "Believing Is Seeing",
+          "size": 241
+        },
+        {
+          "name": "End of the ARMS Race",
+          "size": 90,
+          "link": "http://walkthrough.blogs.nytimes.com/2005/12/31/end-of-the-arms-race/"
+        },
+        {
+          "name": "The Free-Ride Effect",
+          "size": 196,
+          "link": "http://walkthrough.blogs.nytimes.com/2005/12/31/the-free-ride-effect/"
+        }
+      ]
+    },
+    {
+      "section_name": "Opinion",
+      "children": [
+        {
+          "name": "More on the Eavesdropping Article",
+          "size": 707
+        },
+        {
+          "name": "Readers Respond to Timing of Eavesdropping Article",
+          "size": 1153,
+          "link": "http://publiceditor.blogs.nytimes.com/2005/12/31/readers-respond-to-timing-of-eavesdropping-article/"
+        },
+        {
+          "name": "Closing Time; A Little Moonlight",
+          "size": 306,
+          "link": "http://query.nytimes.com/gst/fullpage.html?res=9C05E1DD1030F932A05751C1A9639C8B63"
+        },
+        {
+          "name": "Middle-Class Kids in Public Schools",
+          "size": 162,
+          "link": "http://query.nytimes.com/gst/fullpage.html?res=9A00EFDD1030F932A05751C1A9639C8B63"
+        },
+        {
+          "name": "Middle-Class Kids in Public Schools",
+          "size": 163,
+          "link": "http://query.nytimes.com/gst/fullpage.html?res=950CEFDD1030F932A05751C1A9639C8B63"
+        },
+        {
+          "name": "Well-Spent Prison Time",
+          "size": 510,
+          "link": "http://www.nytimes.com/2005/12/31/opinion/31sat4.html"
+        },
+        {
+          "name": "Middle-Class Kids in Public Schools",
+          "size": 214,
+          "link": "http://query.nytimes.com/gst/fullpage.html?res=9401EFDD1030F932A05751C1A9639C8B63"
+        },
+        {
+          "name": "Closing Time; A Little Moonlight",
+          "size": 306,
+          "link": "http://query.nytimes.com/gst/fullpage.html?res=9C05E1DD1030F932A05751C1A9639C8B63"
+        },
+        {
+          "name": "Middle-Class Kids in Public Schools",
+          "size": 162,
+          "link": "http://query.nytimes.com/gst/fullpage.html?res=9A00EFDD1030F932A05751C1A9639C8B63"
+        },
+        {
+          "name": "Middle-Class Kids in Public Schools",
+          "size": 163,
+          "link": "http://query.nytimes.com/gst/fullpage.html?res=950CEFDD1030F932A05751C1A9639C8B63"
+        },
+        {
+          "name": "Closing Time; The Waterclock and the Hourglass",
+          "size": 107,
+          "link": "http://query.nytimes.com/gst/fullpage.html?res=9803E5DE1030F932A05751C1A9639C8B63"
+        },
+        {
+          "name": "To Reflect, Or Not to Reflect",
+          "size": 145,
+          "link": "http://query.nytimes.com/gst/fullpage.html?res=9D03EEDD1030F932A05751C1A9639C8B63"
+        },
+        {
+          "name": "Rein In The Stallion Sex",
+          "size": 729,
+          "link": "http://www.nytimes.com/2005/12/31/opinion/31dowd.html"
+        }
+      ]
+    },
+    {
+      "section_name": null,
+      "children": [
+        {
+          "name": "Warriors' One-Two Punch Floors Dallas",
+          "size": 685
+        },
+        {
+          "name": "National Briefing | Science And Health: Recall Of Dog Food",
+          "size": 116,
+          "link": "http://query.nytimes.com/gst/fullpage.html?res=9404E7DB1030F932A05751C1A9639C8B63"
+        },
+        {
+          "name": "National Briefing | South: Georgia: Family Fights Over King Center",
+          "size": 114,
+          "link": "/data/daily/2005/12/31/964000.sgml"
+        }
+      ]
+    },
+    {
+      "section_name": "Technology; Business",
+      "children": [
+        {
+          "name": "Shoppers of the World, Unite",
+          "size": 613
+        },
+        {
+          "name": "Shoppers of the World, Unite",
+          "size": 613,
+          "link": "http://www.nytimes.com/2005/12/31/technology/31online.ready.html"
         }
       ]
     }

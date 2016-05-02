@@ -1,348 +1,336 @@
 {
+  "size": 500,
+  "section_name": "Articles",
   "children": [
     {
+      "section_name": "New York and Region",
       "children": [
         {
-          "name": "Reagan Writes",
-          "size": 4351
-        }
-      ],
-      "section_name": "Magazine; Washington; Books"
-    },
-    {
-      "children": [
-        {
-          "name": "Searching for Happy Chorus Girls and Finding Plays",
-          "size": 985
-        }
-      ],
-      "section_name": "Arts; Theater"
-    },
-    {
-      "children": [
-        {
-          "name": "Taking a Nearsighted Risk",
-          "size": 205
-        }
-      ],
-      "section_name": "Business"
-    },
-    {
-      "children": [
-        {
-          "name": "Books in Brief: Fiction & Poetry",
-          "size": 225
+          "size": 88,
+          "name": "MIRANDA WARNING"
         },
         {
-          "name": "The Sacred and the Secular",
-          "link": "http://www.nytimes.com/2000/12/31/books/the-sacred-and-the-secular.html",
-          "size": 1062
-        },
-        {
-          "name": "Waiting for the Streetcar",
-          "link": "http://www.nytimes.com/2000/12/31/books/waiting-for-the-streetcar.html",
-          "size": 1345
-        }
-      ],
-      "section_name": "Arts; Books"
-    },
-    {
-      "children": [
-        {
-          "name": "A Kashmiri Mystery",
-          "size": 7826
-        }
-      ],
-      "section_name": "Magazine; Washington"
-    },
-    {
-      "children": [
-        {
-          "name": "Teaching a Lesson Not Found in Class",
-          "size": 1026
-        }
-      ],
-      "section_name": "Education; New York and Region"
-    },
-    {
-      "children": [
-        {
-          "name": "MIRANDA WARNING",
-          "size": 88
-        },
-        {
-          "name": "Survey Finds Most Back Cell-Phone Limits",
+          "size": 186,
           "link": "http://www.nytimes.com/2000/12/31/nyregion/in-brief-survey-finds-most-back-cell-phone-limits.html",
-          "size": 186
+          "name": "Survey Finds Most Back Cell-Phone Limits"
         },
         {
-          "name": "Killings Exceed 1999 Toll",
+          "size": 117,
           "link": "http://www.nytimes.com/2000/12/31/nyregion/killings-exceed-1999-toll.html",
-          "size": 117
+          "name": "Killings Exceed 1999 Toll"
         },
         {
-          "name": "Western Food, With a Twist, in Darien",
-          "link": "http://www.nytimes.com/2000/12/31/nyregion/dining-out-western-food-with-a-twist-in-darien.html",
-          "size": 756
+          "size": 30,
+          "link": "http://www.nytimes.com/2000/12/31/nyregion/quotation-of-the-day-231355.html",
+          "name": "QUOTATION OF THE DAY"
         },
         {
-          "name": "Pool, Gym or a Bit of Both? Neighbors Mull the Options",
+          "size": 727,
+          "link": "http://www.nytimes.com/2000/12/31/nyregion/dining-out-chinese-food-with-room-to-linger.html",
+          "name": "Chinese Food, With Room to Linger"
+        },
+        {
+          "size": 509,
           "link": "http://www.nytimes.com/2000/12/31/nyregion/neighborhood-report-west-side-pool-gym-bit-both-neighbors-mull-options.html",
-          "size": 509
+          "name": "Pool, Gym or a Bit of Both? Neighbors Mull the Options"
         },
         {
-          "name": "IN BRIEF",
+          "size": 357,
           "link": "http://www.nytimes.com/2000/12/31/nyregion/in-brief.html",
-          "size": 357
+          "name": "IN BRIEF"
         },
         {
-          "name": "VOLUNTEER LAW",
+          "size": 93,
           "link": "http://www.nytimes.com/2000/12/31/nyregion/briefing-public-housing-volunteer-law.html",
-          "size": 93
+          "name": "VOLUNTEER LAW"
         },
         {
-          "name": "JERSEY DIARY",
+          "size": 443,
           "link": "http://www.nytimes.com/2000/12/31/nyregion/jersey-diary.html",
-          "size": 443
+          "name": "JERSEY DIARY"
         },
         {
-          "name": "WASTEWATER PLANT MALFUNCTIONS",
+          "size": 78,
           "link": "http://www.nytimes.com/2000/12/31/nyregion/in-brief-environment-wastewater-plant-malfunctions.html",
-          "size": 78
+          "name": "WASTEWATER PLANT MALFUNCTIONS"
         },
         {
-          "name": "Good Food, and a Place to Nap After",
+          "size": 1336,
           "link": "http://www.nytimes.com/2000/12/31/nyregion/leisure-good-food-and-a-place-to-nap-after.html",
-          "size": 1336
+          "name": "Good Food, and a Place to Nap After"
         },
         {
-          "name": "The Temptation to Tinker",
+          "size": 586,
           "link": "http://www.nytimes.com/2000/12/31/nyregion/city-lore-the-temptation-to-tinker.html",
-          "size": 586
+          "name": "The Temptation to Tinker"
         }
-      ],
-      "section_name": "New York and Region"
+      ]
     },
     {
+      "section_name": "Movies; Style; Opinion",
       "children": [
         {
-          "name": "Distinctive Artistry",
-          "size": 224
+          "size": 145,
+          "name": ". . . Thanks to Mr. Dickens . . ."
         }
-      ],
-      "section_name": "Arts; Opinion"
+      ]
     },
     {
+      "section_name": "Business",
       "children": [
         {
-          "name": "Nef Takes Third Slalom of Season",
-          "size": 494
+          "size": 52,
+          "name": "The Financial Doctor Is Not In"
         },
         {
-          "name": "Dolphins Outrun The Colts",
-          "link": "http://www.nytimes.com/2000/12/31/sports/pro-football-dolphins-outrun-the-colts.html",
-          "size": 566
-        },
-        {
-          "name": "Colorado Avenges A Loss",
-          "link": "http://www.nytimes.com/2000/12/31/sports/nhl-roundup-friday-colorado-avenges-a-loss.html",
-          "size": 443
+          "size": 205,
+          "link": "http://www.nytimes.com/2000/12/31/business/private-sector-taking-a-nearsighted-risk.html",
+          "name": "Taking a Nearsighted Risk"
         }
-      ],
-      "section_name": null
+      ]
     },
     {
+      "section_name": "Week in Review",
       "children": [
         {
-          "name": "Which Track for the High Line?",
-          "size": 2428
-        }
-      ],
-      "section_name": "Real Estate"
-    },
-    {
-      "children": [
-        {
-          "name": "Saints Thwart Rams' Rally To Post First Playoff Victory",
-          "size": 899
+          "size": 99,
+          "name": "December 24 - 30; Water and Firestorms"
         },
         {
-          "name": "Sports of The Times; Another Leader Heads for Bridge",
-          "link": "http://www.nytimes.com/2000/12/31/sports/sports-of-the-times-another-leader-heads-for-bridge.html",
-          "size": 897
-        }
-      ],
-      "section_name": "Sports"
-    },
-    {
-      "children": [
-        {
-          "name": "Judging the Gentlewoman From New York",
-          "size": 692
-        },
-        {
-          "name": "Finding the Next Baton",
-          "link": "http://www.nytimes.com/2000/12/31/opinion/finding-the-next-baton.html",
-          "size": 449
-        }
-      ],
-      "section_name": "Opinion"
-    },
-    {
-      "children": [
-        {
-          "name": "Life After Death Row",
-          "size": 174
-        }
-      ],
-      "section_name": "Magazine; Opinion"
-    },
-    {
-      "children": [
-        {
-          "name": "Rachel Croyle, Henry Schwartz",
-          "size": 252
-        },
-        {
-          "name": "Christina de la Cruz, Stephen Green",
-          "link": "http://www.nytimes.com/2000/12/31/style/weddings-christina-de-la-cruz-stephen-green.html",
-          "size": 168
-        },
-        {
-          "name": "Ed Bernstein and Lisa Schacht-Levine",
-          "link": "http://www.nytimes.com/2000/12/31/style/weddings-vows-ed-bernstein-and-lisa-schacht-levine.html",
-          "size": 676
-        }
-      ],
-      "section_name": "Style"
-    },
-    {
-      "children": [
-        {
-          "name": "Paid Notice: Deaths  BRANDMARK, MILTON",
-          "size": 35
-        },
-        {
-          "name": "Paid Notice: Deaths  BRIEFER, RUTH (MEYER)",
-          "link": "http://www.nytimes.com/2000/12/31/classified/paid-notice-deaths-briefer-ruth-meyer.html",
-          "size": 57
-        },
-        {
-          "name": "Paid Notice: Deaths  ASMUS, PHILIP PATRICK",
-          "link": "http://www.nytimes.com/2000/12/31/classified/paid-notice-deaths-asmus-philip-patrick.html",
-          "size": 76
-        },
-        {
-          "name": "Paid Notice: Deaths  GRIFFITHS, DEBORAH J. (HOLTON)",
-          "link": "http://www.nytimes.com/2000/12/31/classified/paid-notice-deaths-griffiths-deborah-j-holton.html",
-          "size": 66
-        },
-        {
-          "name": "Paid Notice: Memorials  COHEN, MORTIMER H. DR.",
-          "link": "http://www.nytimes.com/2000/12/31/classified/paid-notice-memorials-cohen-mortimer-h-dr.html",
-          "size": 27
-        }
-      ],
-      "section_name": "Paid Death Notices"
-    },
-    {
-      "children": [
-        {
-          "name": "Proposed Wisconsin Casino, Far From Reservation, Meets Resistance",
-          "size": 1537
-        }
-      ],
-      "section_name": "U.S."
-    },
-    {
-      "children": [
-        {
-          "name": ". . . Thanks to Mr. Dickens . . .",
-          "size": 145
-        },
-        {
-          "name": ". . . For Tiny Tim Lives . . .",
-          "link": "http://www.nytimes.com/2000/12/31/style/l-for-tiny-tim-lives-221872.html",
-          "size": 169
-        }
-      ],
-      "section_name": "Movies; Style; Opinion"
-    },
-    {
-      "children": [
-        {
-          "name": "Ms. Responsibility Takes the Gallup Exam",
-          "size": 680
-        }
-      ],
-      "section_name": "Technology; Business; Books"
-    },
-    {
-      "children": [
-        {
-          "name": "Ample Reasons for Keeping Both Hands on Wheel",
-          "size": 182
-        }
-      ],
-      "section_name": "New York and Region; Opinion"
-    },
-    {
-      "children": [
-        {
-          "name": "December 24 - 30; Biggest Names Of the Year",
-          "size": 269
-        },
-        {
-          "name": "December 24 - 30; Separate Mass Killings In Boston and Philadelphia",
-          "link": "http://www.nytimes.com/2000/12/31/weekinreview/december-24-30-separate-mass-killings-in-boston-and-philadelphia.html",
-          "size": 99
-        },
-        {
-          "name": "December 24 - 30; Water and Firestorms",
-          "link": "http://www.nytimes.com/2000/12/31/weekinreview/december-24-30-water-and-firestorms.html",
-          "size": 99
-        },
-        {
-          "name": "December 24 - 30; Hark! That's No Herald Angel",
+          "size": 352,
           "link": "http://www.nytimes.com/2000/12/31/weekinreview/december-24-30-hark-that-s-no-herald-angel.html",
-          "size": 352
+          "name": "December 24 - 30; Hark! That's No Herald Angel"
         }
-      ],
-      "section_name": "Week in Review"
+      ]
     },
     {
+      "section_name": "Arts; Books",
       "children": [
         {
-          "name": "How to Avoid Passport Woes",
-          "size": 1210
-        }
-      ],
-      "section_name": "Travel"
-    },
-    {
-      "children": [
-        {
-          "name": "H.M.O.'s to Drop Many Elderly and Disabled People",
-          "size": 1417
-        }
-      ],
-      "section_name": "Health; U.S."
-    },
-    {
-      "children": [
-        {
-          "name": "Soccer Brawl Spills Into the Streets in the Suburbs of Tehran",
-          "size": 267
+          "size": 225,
+          "name": "Books in Brief: Fiction & Poetry"
         },
         {
-          "name": "First Peaceful Power Shift Is Welcomed by Ghanaians",
-          "link": "http://www.nytimes.com/2000/12/31/world/first-peaceful-power-shift-is-welcomed-by-ghanaians.html",
-          "size": 366
+          "size": 1062,
+          "link": "http://www.nytimes.com/2000/12/31/books/the-sacred-and-the-secular.html",
+          "name": "The Sacred and the Secular"
+        },
+        {
+          "size": 1345,
+          "link": "http://www.nytimes.com/2000/12/31/books/waiting-for-the-streetcar.html",
+          "name": "Waiting for the Streetcar"
         }
-      ],
-      "section_name": "World"
+      ]
+    },
+    {
+      "section_name": "Style; Opinion",
+      "children": [
+        {
+          "size": 75,
+          "name": "Vows in the Cheese Aisle"
+        }
+      ]
+    },
+    {
+      "section_name": "World",
+      "children": [
+        {
+          "size": 267,
+          "name": "Soccer Brawl Spills Into the Streets in the Suburbs of Tehran"
+        },
+        {
+          "size": 366,
+          "link": "http://www.nytimes.com/2000/12/31/world/first-peaceful-power-shift-is-welcomed-by-ghanaians.html",
+          "name": "First Peaceful Power Shift Is Welcomed by Ghanaians"
+        }
+      ]
+    },
+    {
+      "section_name": "Education; New York and Region",
+      "children": [
+        {
+          "size": 1026,
+          "name": "Teaching a Lesson Not Found in Class"
+        }
+      ]
+    },
+    {
+      "section_name": "Magazine; Washington; Books",
+      "children": [
+        {
+          "size": 4351,
+          "name": "Reagan Writes"
+        }
+      ]
+    },
+    {
+      "section_name": "Paid Death Notices",
+      "children": [
+        {
+          "size": 57,
+          "name": "Paid Notice: Deaths  BRIEFER, RUTH (MEYER)"
+        },
+        {
+          "size": 76,
+          "link": "http://www.nytimes.com/2000/12/31/classified/paid-notice-deaths-asmus-philip-patrick.html",
+          "name": "Paid Notice: Deaths  ASMUS, PHILIP PATRICK"
+        },
+        {
+          "size": 66,
+          "link": "http://www.nytimes.com/2000/12/31/classified/paid-notice-deaths-griffiths-deborah-j-holton.html",
+          "name": "Paid Notice: Deaths  GRIFFITHS, DEBORAH J. (HOLTON)"
+        },
+        {
+          "size": 27,
+          "link": "http://www.nytimes.com/2000/12/31/classified/paid-notice-memorials-cohen-mortimer-h-dr.html",
+          "name": "Paid Notice: Memorials  COHEN, MORTIMER H. DR."
+        }
+      ]
+    },
+    {
+      "section_name": "Arts; Theater",
+      "children": [
+        {
+          "size": 985,
+          "name": "Searching for Happy Chorus Girls and Finding Plays"
+        }
+      ]
+    },
+    {
+      "section_name": "U.S.",
+      "children": [
+        {
+          "size": 1537,
+          "name": "Proposed Wisconsin Casino, Far From Reservation, Meets Resistance"
+        }
+      ]
+    },
+    {
+      "section_name": "Style",
+      "children": [
+        {
+          "size": 168,
+          "name": "Christina de la Cruz, Stephen Green"
+        },
+        {
+          "size": 676,
+          "link": "http://www.nytimes.com/2000/12/31/style/weddings-vows-ed-bernstein-and-lisa-schacht-levine.html",
+          "name": "Ed Bernstein and Lisa Schacht-Levine"
+        }
+      ]
+    },
+    {
+      "section_name": null,
+      "children": [
+        {
+          "size": 494,
+          "name": "Nef Takes Third Slalom of Season"
+        },
+        {
+          "size": 566,
+          "link": "http://www.nytimes.com/2000/12/31/sports/pro-football-dolphins-outrun-the-colts.html",
+          "name": "Dolphins Outrun The Colts"
+        },
+        {
+          "size": 443,
+          "link": "http://www.nytimes.com/2000/12/31/sports/nhl-roundup-friday-colorado-avenges-a-loss.html",
+          "name": "Colorado Avenges A Loss"
+        },
+        {
+          "size": 316,
+          "link": "http://www.nytimes.com/2000/12/31/tv/for-young-viewers-when-the-moral-of-the-story-is-the-story.html",
+          "name": "When the Moral of the Story Is the Story"
+        }
+      ]
+    },
+    {
+      "section_name": "Travel",
+      "children": [
+        {
+          "size": 1210,
+          "name": "How to Avoid Passport Woes"
+        }
+      ]
+    },
+    {
+      "section_name": "Sports",
+      "children": [
+        {
+          "size": 12464,
+          "name": "From Sydney To the Bronx, the Winners"
+        },
+        {
+          "size": 899,
+          "link": "http://www.nytimes.com/2000/12/31/sports/pro-football-saints-thwart-rams-rally-to-post-first-playoff-victory.html",
+          "name": "Saints Thwart Rams' Rally To Post First Playoff Victory"
+        },
+        {
+          "size": 897,
+          "link": "http://www.nytimes.com/2000/12/31/sports/sports-of-the-times-another-leader-heads-for-bridge.html",
+          "name": "Sports of The Times; Another Leader Heads for Bridge"
+        }
+      ]
+    },
+    {
+      "section_name": "Technology; Business; Books",
+      "children": [
+        {
+          "size": 680,
+          "name": "Ms. Responsibility Takes the Gallup Exam"
+        }
+      ]
+    },
+    {
+      "section_name": "Arts; Opinion",
+      "children": [
+        {
+          "size": 224,
+          "name": "Distinctive Artistry"
+        },
+        {
+          "size": 132,
+          "link": "http://www.nytimes.com/2000/12/31/arts/l-top-10-albums-where-s-steve-earle-187259.html",
+          "name": "Where's Steve Earle?"
+        }
+      ]
+    },
+    {
+      "section_name": "Opinion",
+      "children": [
+        {
+          "size": 141,
+          "name": "Mixing Tax Cuts With Health Care"
+        },
+        {
+          "size": 692,
+          "link": "http://www.nytimes.com/2000/12/31/opinion/judging-the-gentlewoman-from-new-york.html",
+          "name": "Judging the Gentlewoman From New York"
+        },
+        {
+          "size": 449,
+          "link": "http://www.nytimes.com/2000/12/31/opinion/finding-the-next-baton.html",
+          "name": "Finding the Next Baton"
+        }
+      ]
+    },
+    {
+      "section_name": "Real Estate",
+      "children": [
+        {
+          "size": 2428,
+          "name": "Which Track for the High Line?"
+        },
+        {
+          "size": 1076,
+          "link": "http://www.nytimes.com/2000/12/31/realestate/residential-sales.html",
+          "name": "Residential Sales"
+        },
+        {
+          "size": 1351,
+          "link": "http://www.nytimes.com/2000/12/31/realestate/in-the-region-new-jersey-a-onetime-industrial-area-is-recycled-for-housing.html",
+          "name": "In the Region/New Jersey; A Onetime Industrial Area Is Recycled for Housing"
+        }
+      ]
     }
-  ],
-  "section_name": "Articles",
-  "size": 500
+  ]
 }

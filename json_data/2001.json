@@ -1,296 +1,316 @@
 {
-  "section_name": "Articles",
-  "size": 500,
   "children": [
     {
-      "section_name": "New York and Region",
       "children": [
         {
-          "name": "Metro Briefing | New Jersey: Newark: E-ZPass Deficit Widens",
-          "size": 95
+          "size": 515,
+          "name": "Smoke Chokes Sydney as More Bush Fires Are Set Near the City"
         },
         {
-          "name": "Metro Briefing | New York: Buffalo: Snow Deaths Rise",
-          "link": "http://www.nytimes.com/2001/12/31/nyregion/metro-briefing-new-york-buffalo-snow-deaths-rise.html",
-          "size": 99
-        },
-        {
-          "name": "Metro Briefing | Connecticut: Middletown: Police Union President Won't Run",
-          "link": "http://www.nytimes.com/2001/12/31/nyregion/metro-briefing-connecticut-middletown-police-union-president-won-t-run.html",
-          "size": 94
-        },
-        {
-          "name": "La Guardia's Legacy Is Formidable, but It May Be Surpassed",
-          "link": "http://www.nytimes.com/2001/12/31/nyregion/giuliani-years-history-la-guardia-s-legacy-formidable-but-it-may-be-surpassed.html",
-          "size": 1159
-        },
-        {
-          "name": "La Guardia's Legacy Is Formidable, but It May Be Surpassed",
-          "link": "http://www.nytimes.com/2001/12/31/nyregion/giuliani-years-history-la-guardia-s-legacy-formidable-but-it-may-be-surpassed.html",
-          "size": 1159
-        }
-      ]
-    },
-    {
-      "section_name": "World; Front Page",
-      "children": [
-        {
-          "name": "Bin Laden Sought Iran as an Ally, U.S. Intelligence Documents Say",
-          "size": 1217
-        },
-        {
-          "name": "Bin Laden Sought Iran as an Ally, U.S. Intelligence Documents Say",
-          "link": "http://www.nytimes.com/2001/12/31/world/nation-challenged-qaeda-diplomacy-bin-laden-sought-iran-ally-us-intelligence.html",
-          "size": 1217
-        }
-      ]
-    },
-    {
-      "section_name": "Front Page; New York and Region",
-      "children": [
-        {
-          "name": "A Man Who Became More Than a Mayor",
-          "size": 6541
-        },
-        {
-          "name": "A Man Who Became More Than a Mayor",
-          "link": "http://www.nytimes.com/2001/12/31/nyregion/the-giuliani-years-the-overview-a-man-who-became-more-than-a-mayor.html",
-          "size": 6541
-        }
-      ]
-    },
-    {
-      "section_name": "Paid Death Notices",
-      "children": [
-        {
-          "name": "Paid Notice: Deaths  KATZ, PHYLLIS",
-          "size": 148
-        },
-        {
-          "name": "Paid Notice: Deaths  SAFRAN, IRWIN N.",
-          "link": "http://www.nytimes.com/2001/12/31/classified/paid-notice-deaths-safran-irwin-n.html",
-          "size": 41
-        },
-        {
-          "name": "Paid Notice: Deaths  SAFRAN, IRWIN N.",
-          "link": "http://www.nytimes.com/2001/12/31/classified/paid-notice-deaths-safran-irwin-n.html",
-          "size": 41
-        }
-      ]
-    },
-    {
-      "section_name": "World",
-      "children": [
-        {
-          "name": "Smoke Chokes Sydney as More Bush Fires Are Set Near the City",
-          "size": 515
-        },
-        {
-          "name": "Iranian Religious Leader Enters Dispute",
           "link": "http://www.nytimes.com/2001/12/31/world/iranian-religious-leader-enters-dispute.html",
-          "size": 106
+          "size": 106,
+          "name": "Iranian Religious Leader Enters Dispute"
         },
         {
-          "name": "Iranian Religious Leader Enters Dispute",
-          "link": "http://www.nytimes.com/2001/12/31/world/iranian-religious-leader-enters-dispute.html",
-          "size": 106
+          "link": "http://www.nytimes.com/2001/12/31/world/nation-challenged-overview-dec-30-2001-screaming-eagles-war-perspectives.html",
+          "size": 511,
+          "name": "The Screaming Eagles, War Perspectives"
         }
-      ]
+      ],
+      "section_name": "World"
     },
     {
-      "section_name": null,
       "children": [
         {
-          "name": "California Governor Taps Outside Donors",
-          "size": 182
-        },
-        {
-          "name": "Travelers Wait As Officials Check Threats",
-          "link": "http://www.nytimes.com/2001/12/31/us/a-nation-challenged-airport-security-travelers-wait-as-officials-check-threats.html",
-          "size": 344
-        },
-        {
-          "name": "Hatteberg to Try First Base for A's",
-          "link": "http://www.nytimes.com/2001/12/31/sports/plus-baseball-hatteberg-to-try-first-base-for-a-s.html",
-          "size": 61
-        },
-        {
-          "name": "DeWitt Gets Victory In Skeleton Trials",
-          "link": "http://www.nytimes.com/2001/12/31/sports/plus-winter-sports-dewitt-gets-victory-in-skeleton-trials.html",
-          "size": 200
-        },
-        {
-          "name": "U.S. Will Face Russia in Juniors",
-          "link": "http://www.nytimes.com/2001/12/31/sports/plus-hockey-us-will-face-russia-in-juniors.html",
-          "size": 131
-        },
-        {
-          "name": "Coyotes Top Sharks On Road",
-          "link": "http://www.nytimes.com/2001/12/31/sports/nhl-roundup-coyotes-top-sharks-on-road.html",
-          "size": 315
-        },
-        {
-          "name": "N.F.L. Week 16; Seahawks' Survival Puts Jets in Jeopardy",
-          "link": "http://www.nytimes.com/2001/12/31/sports/nfl-week-16-seahawks-survival-puts-jets-in-jeopardy.html",
-          "size": 397
-        },
-        {
-          "name": "N.F.L. Week 16; Broncos Keep Raiders Reeling",
-          "link": "http://www.nytimes.com/2001/12/31/sports/nfl-week-16-broncos-keep-raiders-reeling.html",
-          "size": 376
-        },
-        {
-          "name": "The Year in Pictures: TOUGH JOBS, AND A NEW ONE; PROFESSOR GORE",
-          "link": "http://www.nytimes.com/2001/12/31/news/the-year-in-pictures-tough-jobs-and-a-new-one-professor-gore.html",
-          "size": 0
-        },
-        {
-          "name": "The Year in Pictures: THE MEANING OF LIFE; ISRAEL SUICIDE BOMBING",
-          "link": "http://www.nytimes.com/2001/12/31/news/the-year-in-pictures-the-meaning-of-life-israel-suicide-bombing.html",
-          "size": 0
-        },
-        {
-          "name": "BACKING BIN LADEN",
-          "link": "http://www.nytimes.com/2001/12/31/news/the-year-in-pictures-drumbeat-for-war-backing-bin-laden.html",
-          "size": 7
-        },
-        {
-          "name": "The Year in Pictures: IN WITH THE NEW; '43.'",
-          "link": "http://www.nytimes.com/2001/12/31/news/the-year-in-pictures-in-with-the-new-43.html",
-          "size": 88
-        },
-        {
-          "name": "The Year in Pictures: TRIUMPH AND FRAILTY; SIGNS OF AGE",
-          "link": "http://www.nytimes.com/2001/12/31/news/the-year-in-pictures-triumph-and-frailty-signs-of-age.html",
-          "size": 0
-        },
-        {
-          "name": "BACKING BIN LADEN",
-          "link": "http://www.nytimes.com/2001/12/31/news/the-year-in-pictures-drumbeat-for-war-backing-bin-laden.html",
-          "size": 7
-        },
-        {
-          "name": "The Year in Pictures: IN WITH THE NEW; '43.'",
-          "link": "http://www.nytimes.com/2001/12/31/news/the-year-in-pictures-in-with-the-new-43.html",
-          "size": 88
-        },
-        {
-          "name": "The Year in Pictures: TRIUMPH AND FRAILTY; SIGNS OF AGE",
-          "link": "http://www.nytimes.com/2001/12/31/news/the-year-in-pictures-triumph-and-frailty-signs-of-age.html",
-          "size": 0
-        },
-        {
-          "name": "WARY AT THE BORDER",
-          "link": "http://www.nytimes.com/2001/12/31/news/the-year-in-pictures-a-region-at-war-wary-at-the-border.html",
-          "size": 8
-        },
-        {
-          "name": "The Year in Pictures: FIRE, MYSTERY, AND MEDICINE",
-          "link": "http://www.nytimes.com/2001/12/31/news/the-year-in-pictures-fire-mystery-and-medicine.html",
-          "size": 74
+          "size": 310,
+          "name": "Threat of Terrorism On U.S. Infrastructure"
         }
-      ]
+      ],
+      "section_name": "Technology; Business; Washington"
     },
     {
-      "section_name": "Business; Books",
       "children": [
         {
-          "name": "A Hit Factory Loses Its Chief Hit Maker",
-          "size": 306
+          "size": 721,
+          "name": "The Hair of the Dog Is This Man's Best Friend"
         },
         {
-          "name": "A Hit Factory Loses Its Chief Hit Maker",
-          "link": "http://www.nytimes.com/2001/12/31/business/media-books-a-hit-factory-loses-its-chief-hit-maker.html",
-          "size": 306
+          "link": "http://www.nytimes.com/2001/12/31/movies/box-office-was-busy-and-potter-was-king.html",
+          "size": 820,
+          "name": "Box Office Was Busy, And Potter Was King"
         }
-      ]
+      ],
+      "section_name": "Movies; Arts"
     },
     {
-      "section_name": "Business",
       "children": [
         {
-          "name": "Canadian Imperial Bank Buys Merrill Unit",
-          "size": 158
+          "size": 6541,
+          "name": "A Man Who Became More Than a Mayor"
+        }
+      ],
+      "section_name": "Front Page; New York and Region"
+    },
+    {
+      "children": [
+        {
+          "size": 866,
+          "name": "White House Letter; President's Own Brand Of Privacy on the Prairie"
+        }
+      ],
+      "section_name": "U.S."
+    },
+    {
+      "children": [
+        {
+          "size": 144,
+          "name": "To Make New York A More Livable City"
         },
         {
-          "name": "World Bank Arm Lifts China Stake",
-          "link": "http://www.nytimes.com/2001/12/31/business/world-bank-arm-lifts-china-stake.html",
-          "size": 178
+          "link": "http://www.nytimes.com/2001/12/31/opinion/l-accessible-cockpit-data-919098.html",
+          "size": 63,
+          "name": "Accessible Cockpit Data"
         },
         {
-          "name": "Canadian Imperial Bank Buys Merrill Unit",
+          "link": "http://www.nytimes.com/2001/12/31/opinion/a-family-tale.html",
+          "size": 753,
+          "name": "A Family Tale"
+        },
+        {
+          "link": "http://www.nytimes.com/2001/12/31/opinion/words-fail-memory-blurs-life-wins.html",
+          "size": 826,
+          "name": "Words Fail, Memory Blurs, Life Wins"
+        }
+      ],
+      "section_name": "Opinion"
+    },
+    {
+      "children": [
+        {
+          "size": 437,
+          "name": "Devils' Brodeur Rebounds to Defeat Oilers"
+        },
+        {
+          "link": "http://www.nytimes.com/2001/12/31/sports/on-pro-football-thrash-s-long-route-takes-many-twists.html",
+          "size": 823,
+          "name": "Thrash's Long Route Takes Many Twists"
+        }
+      ],
+      "section_name": "Sports"
+    },
+    {
+      "children": [
+        {
+          "size": 545,
+          "name": "BUSINESS DIGEST"
+        },
+        {
+          "link": "http://www.nytimes.com/2001/12/31/business/verticalnet-buys-a-software-maker.html",
+          "size": 137,
+          "name": "VerticalNet Buys A Software Maker"
+        },
+        {
           "link": "http://www.nytimes.com/2001/12/31/business/canadian-imperial-bank-buys-merrill-unit.html",
-          "size": 158
-        },
-        {
-          "name": "World Bank Arm Lifts China Stake",
-          "link": "http://www.nytimes.com/2001/12/31/business/world-bank-arm-lifts-china-stake.html",
-          "size": 178
-        },
-        {
-          "name": "Economic Calendar",
-          "link": "http://www.nytimes.com/2001/12/31/business/economic-calendar.html",
-          "size": 29
-        },
-        {
-          "name": "A Tough Year For Disney's Chief",
-          "link": "http://www.nytimes.com/2001/12/31/business/media-entertainment-a-tough-year-for-disney-s-chief.html",
-          "size": 326
-        },
-        {
-          "name": "Murdoch Watches As Deal Slips Away",
-          "link": "http://www.nytimes.com/2001/12/31/business/media-satellite-tv-murdoch-watches-as-deal-slips-away.html",
-          "size": 381
+          "size": 158,
+          "name": "Canadian Imperial Bank Buys Merrill Unit"
         }
-      ]
+      ],
+      "section_name": "Business"
     },
     {
-      "section_name": "Movies; Arts",
       "children": [
         {
-          "name": "The Hair of the Dog Is This Man's Best Friend",
-          "size": 721
+          "size": 341,
+          "name": "Players Left Standing Now Seek Viability"
         },
         {
-          "name": "Box Office Was Busy, And Potter Was King",
-          "link": "http://www.nytimes.com/2001/12/31/movies/box-office-was-busy-and-potter-was-king.html",
-          "size": 820
-        },
-        {
-          "name": "The Hair of the Dog Is This Man's Best Friend",
-          "link": "http://www.nytimes.com/2001/12/31/movies/film-review-the-hair-of-the-dog-is-this-man-s-best-friend.html",
-          "size": 721
-        },
-        {
-          "name": "Box Office Was Busy, And Potter Was King",
-          "link": "http://www.nytimes.com/2001/12/31/movies/box-office-was-busy-and-potter-was-king.html",
-          "size": 820
+          "link": "http://www.nytimes.com/2001/12/31/business/internet-leash-can-monitor-sex-offenders.html",
+          "size": 878,
+          "name": "Internet Leash Can Monitor Sex Offenders"
         }
-      ]
+      ],
+      "section_name": "Technology; Business"
     },
     {
-      "section_name": "Technology; Business",
       "children": [
         {
-          "name": "Players Left Standing Now Seek Viability",
-          "size": 341
-        },
-        {
-          "name": "Internet Leash Can Monitor Sex Offenders",
-          "link": "http://www.nytimes.com/2001/12/31/business/internet-leash-can-monitor-sex-offenders.html",
-          "size": 878
-        },
-        {
-          "name": "Internet Leash Can Monitor Sex Offenders",
-          "link": "http://www.nytimes.com/2001/12/31/business/internet-leash-can-monitor-sex-offenders.html",
-          "size": 878
-        },
-        {
-          "name": "Palm, Long a Leader, Has Big Plans for 2002",
-          "link": "http://www.nytimes.com/2001/12/31/business/technology-handhelds-palm-long-a-leader-has-big-plans-for-2002.html",
-          "size": 363
+          "size": 306,
+          "name": "A Hit Factory Loses Its Chief Hit Maker"
         }
-      ]
+      ],
+      "section_name": "Business; Books"
+    },
+    {
+      "children": [
+        {
+          "size": 95,
+          "name": "Metro Briefing | New Jersey: Newark: E-ZPass Deficit Widens"
+        },
+        {
+          "link": "http://www.nytimes.com/2001/12/31/nyregion/metro-briefing-new-york-buffalo-snow-deaths-rise.html",
+          "size": 99,
+          "name": "Metro Briefing | New York: Buffalo: Snow Deaths Rise"
+        },
+        {
+          "link": "http://www.nytimes.com/2001/12/31/nyregion/metro-briefing-connecticut-middletown-police-union-president-won-t-run.html",
+          "size": 94,
+          "name": "Metro Briefing | Connecticut: Middletown: Police Union President Won't Run"
+        },
+        {
+          "link": "http://www.nytimes.com/2001/12/31/nyregion/giuliani-years-history-la-guardia-s-legacy-formidable-but-it-may-be-surpassed.html",
+          "size": 1159,
+          "name": "La Guardia's Legacy Is Formidable, but It May Be Surpassed"
+        },
+        {
+          "link": "http://www.nytimes.com/2001/12/31/nyregion/metro-briefing-new-york-manhattan-man-shot-in-nightclub.html",
+          "size": 105,
+          "name": "Metro Briefing | New York: Manhattan: Man Shot In Nightclub"
+        },
+        {
+          "link": "http://www.nytimes.com/2001/12/31/nyregion/quotation-of-the-day-917702.html",
+          "size": 42,
+          "name": "QUOTATION OF THE DAY"
+        },
+        {
+          "link": "http://www.nytimes.com/2001/12/31/nyregion/holiday-tomorrow-new-year-s-day.html",
+          "size": 214,
+          "name": "Holiday Tomorrow: New Year's Day"
+        }
+      ],
+      "section_name": "New York and Region"
+    },
+    {
+      "children": [
+        {
+          "size": 92,
+          "name": "Paid Notice: Deaths  HOLLOWAY, EDWARD JR."
+        },
+        {
+          "link": "http://www.nytimes.com/2001/12/31/classified/paid-notice-deaths-freeman-sidney-l.html",
+          "size": 11,
+          "name": "Paid Notice: Deaths  FREEMAN, SIDNEY L."
+        },
+        {
+          "link": "http://www.nytimes.com/2001/12/31/classified/paid-notice-deaths-katz-phyllis.html",
+          "size": 148,
+          "name": "Paid Notice: Deaths  KATZ, PHYLLIS"
+        },
+        {
+          "link": "http://www.nytimes.com/2001/12/31/classified/paid-notice-deaths-safran-irwin-n.html",
+          "size": 41,
+          "name": "Paid Notice: Deaths  SAFRAN, IRWIN N."
+        },
+        {
+          "link": "http://www.nytimes.com/2001/12/31/classified/paid-notice-deaths-herman-margaret.html",
+          "size": 76,
+          "name": "Paid Notice: Deaths  HERMAN, MARGARET"
+        }
+      ],
+      "section_name": "Paid Death Notices"
+    },
+    {
+      "children": [
+        {
+          "size": 182,
+          "name": "California Governor Taps Outside Donors"
+        },
+        {
+          "link": "http://www.nytimes.com/2001/12/31/us/a-nation-challenged-airport-security-travelers-wait-as-officials-check-threats.html",
+          "size": 344,
+          "name": "Travelers Wait As Officials Check Threats"
+        },
+        {
+          "link": "http://www.nytimes.com/2001/12/31/sports/plus-baseball-hatteberg-to-try-first-base-for-a-s.html",
+          "size": 61,
+          "name": "Hatteberg to Try First Base for A's"
+        },
+        {
+          "link": "http://www.nytimes.com/2001/12/31/sports/plus-winter-sports-dewitt-gets-victory-in-skeleton-trials.html",
+          "size": 200,
+          "name": "DeWitt Gets Victory In Skeleton Trials"
+        },
+        {
+          "link": "http://www.nytimes.com/2001/12/31/sports/plus-hockey-us-will-face-russia-in-juniors.html",
+          "size": 131,
+          "name": "U.S. Will Face Russia in Juniors"
+        },
+        {
+          "link": "http://www.nytimes.com/2001/12/31/sports/nhl-roundup-coyotes-top-sharks-on-road.html",
+          "size": 315,
+          "name": "Coyotes Top Sharks On Road"
+        },
+        {
+          "link": "http://www.nytimes.com/2001/12/31/sports/nfl-week-16-seahawks-survival-puts-jets-in-jeopardy.html",
+          "size": 397,
+          "name": "N.F.L. Week 16; Seahawks' Survival Puts Jets in Jeopardy"
+        },
+        {
+          "link": "http://www.nytimes.com/2001/12/31/sports/nfl-week-16-broncos-keep-raiders-reeling.html",
+          "size": 376,
+          "name": "N.F.L. Week 16; Broncos Keep Raiders Reeling"
+        },
+        {
+          "link": "http://www.nytimes.com/2001/12/31/news/the-year-in-pictures-drumbeat-for-war-islamic-teachings.html",
+          "size": 7,
+          "name": "ISLAMIC TEACHINGS"
+        },
+        {
+          "link": "http://www.nytimes.com/2001/12/31/sports/nfl-week-16-steelers-bungle-lead-but-earn-top-seeding.html",
+          "size": 395,
+          "name": "N.F.L. Week 16; Steelers Bungle Lead, But Earn Top Seeding"
+        },
+        {
+          "link": "http://www.nytimes.com/2001/12/31/news/the-year-in-pictures-in-the-towers-shadow.html",
+          "size": 917,
+          "name": "The Year in Pictures: IN THE TOWERS' SHADOW"
+        },
+        {
+          "link": "http://www.nytimes.com/2001/12/31/sports/colleges-men-s-basketball-gardner-helps-arizona-avoid-loss-to-valparaiso.html",
+          "size": 889,
+          "name": "Gardner Helps Arizona Avoid Loss to Valparaiso"
+        },
+        {
+          "link": "http://www.nytimes.com/2001/12/31/news/the-year-in-pictures-tough-jobs-and-a-new-one-professor-gore.html",
+          "size": 0,
+          "name": "The Year in Pictures: TOUGH JOBS, AND A NEW ONE; PROFESSOR GORE"
+        },
+        {
+          "link": "http://www.nytimes.com/2001/12/31/news/the-year-in-pictures-the-meaning-of-life-israel-suicide-bombing.html",
+          "size": 0,
+          "name": "The Year in Pictures: THE MEANING OF LIFE; ISRAEL SUICIDE BOMBING"
+        },
+        {
+          "link": "http://www.nytimes.com/2001/12/31/news/the-year-in-pictures-political-acts.html",
+          "size": 120,
+          "name": "The Year in Pictures: POLITICAL ACTS"
+        },
+        {
+          "link": "http://www.nytimes.com/2001/12/31/news/the-year-in-pictures-perils-of-combat-a-time-for-prayer.html",
+          "size": 7,
+          "name": "A TIME FOR PRAYER"
+        }
+      ],
+      "section_name": null
+    },
+    {
+      "children": [
+        {
+          "size": 188,
+          "name": "John W. Taylor, 95, Ex-Unesco Official"
+        }
+      ],
+      "section_name": "U.S.; Obituaries"
+    },
+    {
+      "children": [
+        {
+          "size": 1217,
+          "name": "Bin Laden Sought Iran as an Ally, U.S. Intelligence Documents Say"
+        }
+      ],
+      "section_name": "World; Front Page"
     }
-  ]
+  ],
+  "size": 500,
+  "section_name": "Articles"
 }

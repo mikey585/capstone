@@ -1,199 +1,20 @@
 {
   "size": 500,
-  "section_name": "Articles",
   "children": [
     {
       "children": [
         {
-          "size": 1027,
-          "name": "Films Surprisingly Yielding Surprises"
+          "name": "Meeting for Dollars",
+          "size": 662
         },
         {
-          "size": 1027,
-          "name": "Films Surprisingly Yielding Surprises",
-          "link": "http://www.nytimes.com/1996/12/31/movies/films-surprisingly-yielding-surprises.html"
-        }
-      ],
-      "section_name": "Movies; Arts"
-    },
-    {
-      "children": [
-        {
-          "size": 839,
-          "name": "Hoteliers turn to the data base in search of a new means of more effective direct-mail marketing."
+          "name": "Boomers' Music",
+          "size": 268,
+          "link": "http://www.nytimes.com/1996/12/31/opinion/l-boomers-music-960780.html"
         },
         {
-          "size": 167,
-          "name": "Accounts",
-          "link": "http://www.nytimes.com/1996/12/31/business/accounts.html"
-        },
-        {
-          "size": 118,
-          "name": "French Unemployment At 12.7% in November",
-          "link": "http://www.nytimes.com/1996/12/31/business/french-unemployment-at-12.7-in-november.html"
-        },
-        {
-          "size": 990,
-          "name": "Stock Funds' Intake Slows, Then Resumes",
-          "link": "http://www.nytimes.com/1996/12/31/business/stock-funds-intake-slows-then-resumes.html"
-        },
-        {
-          "size": 840,
-          "name": "Retail Growth Proves Slowest In Northeast",
-          "link": "http://www.nytimes.com/1996/12/31/business/retail-growth-proves-slowest-in-northeast.html"
-        },
-        {
-          "size": 604,
-          "name": "Bond Prices Barely Move In Slow Day",
-          "link": "http://www.nytimes.com/1996/12/31/business/bond-prices-barely-move-in-slow-day.html"
-        },
-        {
-          "size": 106,
-          "name": "UNION CAMP TO CUT 400 JOBS AND TAKE A CHARGE",
-          "link": "http://www.nytimes.com/1996/12/31/business/union-camp-to-cut-400-jobs-and-take-a-charge.html"
-        },
-        {
-          "size": 80,
-          "name": "Key Rates",
-          "link": "http://www.nytimes.com/1996/12/31/business/key-rates-962171.html"
-        },
-        {
-          "size": 480,
-          "name": "Banc One in Deal to Acquire Oklahoma Bank",
-          "link": "http://www.nytimes.com/1996/12/31/business/banc-one-in-deal-to-acquire-oklahoma-bank.html"
-        },
-        {
-          "size": 163,
-          "name": "I.B.M. Makes New Hard Drive",
-          "link": "http://www.nytimes.com/1996/12/31/business/ibm-makes-new-hard-drive.html"
-        },
-        {
-          "size": 606,
-          "name": "Tandy Plans To Close 17 Superstores",
-          "link": "http://www.nytimes.com/1996/12/31/business/tandy-plans-to-close-17-superstores.html"
-        },
-        {
-          "size": 167,
-          "name": "Accounts",
-          "link": "http://www.nytimes.com/1996/12/31/business/accounts.html"
-        },
-        {
-          "size": 118,
-          "name": "French Unemployment At 12.7% in November",
-          "link": "http://www.nytimes.com/1996/12/31/business/french-unemployment-at-12.7-in-november.html"
-        },
-        {
-          "size": 990,
-          "name": "Stock Funds' Intake Slows, Then Resumes",
-          "link": "http://www.nytimes.com/1996/12/31/business/stock-funds-intake-slows-then-resumes.html"
-        },
-        {
-          "size": 840,
-          "name": "Retail Growth Proves Slowest In Northeast",
-          "link": "http://www.nytimes.com/1996/12/31/business/retail-growth-proves-slowest-in-northeast.html"
-        },
-        {
-          "size": 604,
-          "name": "Bond Prices Barely Move In Slow Day",
-          "link": "http://www.nytimes.com/1996/12/31/business/bond-prices-barely-move-in-slow-day.html"
-        },
-        {
-          "size": 106,
-          "name": "UNION CAMP TO CUT 400 JOBS AND TAKE A CHARGE",
-          "link": "http://www.nytimes.com/1996/12/31/business/union-camp-to-cut-400-jobs-and-take-a-charge.html"
-        }
-      ],
-      "section_name": "Business"
-    },
-    {
-      "children": [
-        {
-          "size": 1271,
-          "name": "Young American Designers Make Inroads Into Japan"
-        },
-        {
-          "size": 1271,
-          "name": "Young American Designers Make Inroads Into Japan",
-          "link": "http://www.nytimes.com/1996/12/31/style/young-american-designers-make-inroads-into-japan.html"
-        }
-      ],
-      "section_name": "Style"
-    },
-    {
-      "children": [
-        {
-          "size": 1000,
-          "name": "Vatican Museums Get A New 'Ambassador'"
-        },
-        {
-          "size": 419,
-          "name": "'Boheme,' Engine of Met Debuts",
-          "link": "http://www.nytimes.com/1996/12/31/arts/boheme-engine-of-met-debuts.html"
-        },
-        {
-          "size": 1000,
-          "name": "Vatican Museums Get A New 'Ambassador'",
-          "link": "http://www.nytimes.com/1996/12/31/arts/vatican-museums-get-a-new-ambassador.html"
-        },
-        {
-          "size": 419,
-          "name": "'Boheme,' Engine of Met Debuts",
-          "link": "http://www.nytimes.com/1996/12/31/arts/boheme-engine-of-met-debuts.html"
-        }
-      ],
-      "section_name": "Arts"
-    },
-    {
-      "children": [
-        {
-          "size": 1266,
-          "name": "Religious Leader Describes Decision to Help Clinton After Hearing of Woes"
-        }
-      ],
-      "section_name": "U.S.; Washington"
-    },
-    {
-      "children": [
-        {
-          "size": 88,
-          "name": "In Growth, State Ranks 34th"
-        },
-        {
-          "size": 88,
-          "name": "In Growth, State Ranks 34th",
-          "link": "http://www.nytimes.com/1996/12/31/nyregion/in-growth-state-ranks-34th.html"
-        },
-        {
-          "size": 121,
-          "name": "Court Rules on Trial Dates",
-          "link": "http://www.nytimes.com/1996/12/31/nyregion/court-rules-on-trial-dates.html"
-        },
-        {
-          "size": 525,
-          "name": "Chief of Rockefeller Fund Planning to Resign in '97",
-          "link": "http://www.nytimes.com/1996/12/31/nyregion/chief-of-rockefeller-fund-planning-to-resign-in-97.html"
-        }
-      ],
-      "section_name": "New York and Region"
-    },
-    {
-      "children": [
-        {
-          "size": 904,
-          "name": "An Upwardly Noble American Wants the Mansion"
-        }
-      ],
-      "section_name": "World"
-    },
-    {
-      "children": [
-        {
-          "size": 253,
-          "name": "Jerusalem Thoroughfare Is Designed to Provoke"
-        },
-        {
-          "size": 253,
           "name": "Jerusalem Thoroughfare Is Designed to Provoke",
+          "size": 253,
           "link": "http://www.nytimes.com/1996/12/31/opinion/l-jerusalem-thoroughfare-is-designed-to-provoke-972215.html"
         }
       ],
@@ -202,28 +23,84 @@
     {
       "children": [
         {
-          "size": 1637,
-          "name": "Mysterious Light From Tiny Bubbles Finds Practical Uses"
+          "name": "U.S. Mediator Meets Netanyahu And Then Arafat in Hebron Push",
+          "size": 810
+        }
+      ],
+      "section_name": "World; Front Page; Washington"
+    },
+    {
+      "children": [
+        {
+          "name": "Assault Charges Dropped For Low-Level Diplomats",
+          "size": 299
         },
         {
-          "size": 1352,
-          "name": "Birds That Nest in the Grasslands Find Their Habitats Under Siege",
-          "link": "http://www.nytimes.com/1996/12/31/science/birds-that-nest-in-the-grasslands-find-their-habitats-under-siege.html"
+          "name": "Pataki Names Lawyer to Top Post at Environmental Agency",
+          "size": 437,
+          "link": "http://www.nytimes.com/1996/12/31/nyregion/pataki-names-lawyer-to-top-post-at-environmental-agency.html"
         },
         {
-          "size": 2004,
+          "name": "Rockefeller Foundation Is Losing Its President",
+          "size": 71,
+          "link": "http://www.nytimes.com/1996/12/31/nyregion/rockefeller-foundation-is-losing-its-president.html"
+        },
+        {
+          "name": "Utility Merger May Press Con Edison to Lower Power Rates",
+          "size": 1335,
+          "link": "http://www.nytimes.com/1996/12/31/nyregion/utility-merger-may-press-con-edison-to-lower-power-rates.html"
+        },
+        {
+          "name": "In Growth, State Ranks 34th",
+          "size": 88,
+          "link": "http://www.nytimes.com/1996/12/31/nyregion/in-growth-state-ranks-34th.html"
+        }
+      ],
+      "section_name": "New York and Region"
+    },
+    {
+      "children": [
+        {
+          "name": "Patterns",
+          "size": 628
+        }
+      ],
+      "section_name": "Style"
+    },
+    {
+      "children": [
+        {
+          "name": "Chinese Police Hunt For Bombers in Tibet",
+          "size": 179
+        },
+        {
+          "name": "Russian Troops to Leave Chechnya in January",
+          "size": 182,
+          "link": "http://www.nytimes.com/1996/12/31/world/russian-troops-to-leave-chechnya-in-january.html"
+        },
+        {
+          "name": "In Turkey, New Accusations of Links Between Police, Politicians and Criminals",
+          "size": 743,
+          "link": "http://www.nytimes.com/1996/12/31/world/in-turkey-new-accusations-of-links-between-police-politicians-and-criminals.html"
+        },
+        {
+          "name": "An Upwardly Noble American Wants the Mansion",
+          "size": 904,
+          "link": "http://www.nytimes.com/1996/12/31/world/an-upwardly-noble-american-wants-the-mansion.html"
+        }
+      ],
+      "section_name": "World"
+    },
+    {
+      "children": [
+        {
           "name": "Virus's Similarity to Body's Proteins May Explain Autoimmune Diseases",
-          "link": "http://www.nytimes.com/1996/12/31/science/virus-s-similarity-to-body-s-proteins-may-explain-autoimmune-diseases.html"
+          "size": 2004
         },
         {
-          "size": 1637,
           "name": "Mysterious Light From Tiny Bubbles Finds Practical Uses",
+          "size": 1637,
           "link": "http://www.nytimes.com/1996/12/31/science/mysterious-light-from-tiny-bubbles-finds-practical-uses.html"
-        },
-        {
-          "size": 1352,
-          "name": "Birds That Nest in the Grasslands Find Their Habitats Under Siege",
-          "link": "http://www.nytimes.com/1996/12/31/science/birds-that-nest-in-the-grasslands-find-their-habitats-under-siege.html"
         }
       ],
       "section_name": "Science; Health"
@@ -231,32 +108,52 @@
     {
       "children": [
         {
-          "size": 731,
-          "name": "Wuerffel Trying To Avoid Maelstrom"
+          "name": "TRANSACTIONS",
+          "size": 287
         },
         {
-          "size": 793,
-          "name": "Miami's Davis Joins Giants' Coaching Derby",
-          "link": "http://www.nytimes.com/1996/12/31/sports/miami-s-davis-joins-giants-coaching-derby.html"
+          "name": "Hull Retires Without a Ring",
+          "size": 108,
+          "link": "http://www.nytimes.com/1996/12/31/sports/hull-retires-without-a-ring.html"
         },
         {
-          "size": 941,
-          "name": "Houston Shares the Stage with Hot-Handed Rookie",
-          "link": "http://www.nytimes.com/1996/12/31/sports/houston-shares-the-stage-with-hot-handed-rookie.html"
+          "name": "Cadets Look to Cap Their Glorious Season",
+          "size": 306,
+          "link": "http://www.nytimes.com/1996/12/31/sports/cadets-look-to-cap-their-glorious-season.html"
         },
         {
-          "size": 731,
+          "name": "Groove Tube: A Virtual Year in Cathode Reality",
+          "size": 886,
+          "link": "http://www.nytimes.com/1996/12/31/sports/groove-tube-a-virtual-year-in-cathode-reality.html"
+        },
+        {
+          "name": "RESULTS PLUS",
+          "size": 584,
+          "link": "http://www.nytimes.com/1996/12/31/sports/results-plus-972282.html"
+        },
+        {
+          "name": "Reeves Gets His Chance, But Slips",
+          "size": 709,
+          "link": "http://www.nytimes.com/1996/12/31/sports/reeves-gets-his-chance-but-slips.html"
+        },
+        {
+          "name": "With Game on the Line, Hall Hits Free Throws",
+          "size": 492,
+          "link": "http://www.nytimes.com/1996/12/31/sports/with-game-on-the-line-hall-hits-free-throws.html"
+        },
+        {
           "name": "Wuerffel Trying To Avoid Maelstrom",
+          "size": 731,
           "link": "http://www.nytimes.com/1996/12/31/sports/wuerffel-trying-to-avoid-maelstrom.html"
         },
         {
-          "size": 793,
           "name": "Miami's Davis Joins Giants' Coaching Derby",
+          "size": 793,
           "link": "http://www.nytimes.com/1996/12/31/sports/miami-s-davis-joins-giants-coaching-derby.html"
         },
         {
-          "size": 941,
           "name": "Houston Shares the Stage with Hot-Handed Rookie",
+          "size": 941,
           "link": "http://www.nytimes.com/1996/12/31/sports/houston-shares-the-stage-with-hot-handed-rookie.html"
         }
       ],
@@ -265,27 +162,32 @@
     {
       "children": [
         {
-          "size": 780,
-          "name": "U.S. REPORTS FOES IN KOREA WILLING TO DISCUSS PEACE"
-        },
-        {
-          "size": 2852,
-          "name": "How Afghans' Stern Rulers Took Hold",
-          "link": "http://www.nytimes.com/1996/12/31/world/how-afghans-stern-rulers-took-hold.html"
+          "name": "Films Surprisingly Yielding Surprises",
+          "size": 1027
         }
       ],
-      "section_name": "World; Front Page; Washington"
+      "section_name": "Movies; Arts"
     },
     {
       "children": [
         {
-          "size": 0,
-          "name": "Batteries Included, Vroom, Vroom"
+          "name": "Accused Spy at F.B.I. Pleads Not Guilty",
+          "size": 149
         },
         {
-          "size": 0,
-          "name": "Batteries Included, Vroom, Vroom",
-          "link": "http://www.nytimes.com/1996/12/31/nyregion/batteries-included-vroom-vroom.html"
+          "name": "Finally, the Celtics Win on the Road",
+          "size": 78,
+          "link": "http://www.nytimes.com/1996/12/31/sports/finally-the-celtics-win-on-the-road.html"
+        },
+        {
+          "name": "Kidd Is Sidelined 4-6 Weeks",
+          "size": 163,
+          "link": "http://www.nytimes.com/1996/12/31/sports/kidd-is-sidelined-4-6-weeks.html"
+        },
+        {
+          "name": "Pokey Allen, 53, Football Coach",
+          "size": 177,
+          "link": "http://www.nytimes.com/1996/12/31/sports/pokey-allen-53-football-coach.html"
         }
       ],
       "section_name": null
@@ -293,8 +195,18 @@
     {
       "children": [
         {
+          "name": "Ban on Air Shipment of a Device",
+          "size": 258
+        },
+        {
+          "name": "Back Home in Georgia, Some Gingrich Backers Have Second Thoughts",
+          "size": 759,
+          "link": "http://www.nytimes.com/1996/12/31/us/back-home-in-georgia-some-gingrich-backers-have-second-thoughts.html"
+        },
+        {
+          "name": "Gingrich Says Ethics Decision Won't Delay Vote for Speaker's Job",
           "size": 927,
-          "name": "Gingrich Says Ethics Decision Won't Delay Vote for Speaker's Job"
+          "link": "http://www.nytimes.com/1996/12/31/us/gingrich-says-ethics-decision-won-t-delay-vote-for-speaker-s-job.html"
         }
       ],
       "section_name": "U.S."
@@ -302,11 +214,99 @@
     {
       "children": [
         {
-          "size": 40,
-          "name": "Corrections"
+          "name": "For Student Orchestra, Star Soloists And a Blend Of Legacies",
+          "size": 470
+        },
+        {
+          "name": "Vatican Museums Get A New 'Ambassador'",
+          "size": 1000,
+          "link": "http://www.nytimes.com/1996/12/31/arts/vatican-museums-get-a-new-ambassador.html"
+        }
+      ],
+      "section_name": "Arts"
+    },
+    {
+      "children": [
+        {
+          "name": "If Directx Simplifies, Confusion May Result",
+          "size": 903
+        }
+      ],
+      "section_name": "Technology; Science; Health"
+    },
+    {
+      "children": [
+        {
+          "name": "Corrections",
+          "size": 35
+        },
+        {
+          "name": "Corrections",
+          "size": 35,
+          "link": "http://www.nytimes.com/1996/12/31/nyregion/c-corrections-971880.html"
         }
       ],
       "section_name": "Corrections; New York and Region"
+    },
+    {
+      "children": [
+        {
+          "name": "IOMEGA TO CUT AS MANY AS 700 JOBS AT UTAH PLANTS",
+          "size": 89
+        },
+        {
+          "name": "Providian Unit to Be Sold To Aegon for $2.6 Billion",
+          "size": 617,
+          "link": "http://www.nytimes.com/1996/12/31/business/providian-unit-to-be-sold-to-aegon-for-2.6-billion.html"
+        },
+        {
+          "name": "PHILIPS UNIT TO LAY OFF 160 WORKERS IN A REVAMPING",
+          "size": 94,
+          "link": "http://www.nytimes.com/1996/12/31/business/philips-unit-to-lay-off-160-workers-in-a-revamping.html"
+        },
+        {
+          "name": "TEXLON TO SELL NOTEBOOK COMPUTER UNIT TO DYNATECH",
+          "size": 100,
+          "link": "http://www.nytimes.com/1996/12/31/business/texlon-to-sell-notebook-computer-unit-to-dynatech.html"
+        },
+        {
+          "name": "Food Lion Awarded Damages From ABC",
+          "size": 200,
+          "link": "http://www.nytimes.com/1996/12/31/business/food-lion-awarded-damages-from-abc.html"
+        },
+        {
+          "name": "Humana to Trim Staff as Much as 5% as Health Care Profits Sag",
+          "size": 334,
+          "link": "http://www.nytimes.com/1996/12/31/business/humana-to-trim-staff-as-much-as-5-as-health-care-profits-sag.html"
+        },
+        {
+          "name": "New Apple Chief Got $3 Million  ",
+          "size": 176,
+          "link": "http://www.nytimes.com/1996/12/31/business/new-apple-chief-got-3-million.html"
+        },
+        {
+          "name": "Companies Assume Some Risk to Cut Their Insurance Costs",
+          "size": 1788,
+          "link": "http://www.nytimes.com/1996/12/31/business/companies-assume-some-risk-to-cut-their-insurance-costs.html"
+        },
+        {
+          "name": "NCR stock is trading high, and some analysts wonder why.",
+          "size": 765,
+          "link": "http://www.nytimes.com/1996/12/31/business/ncr-stock-is-trading-high-and-some-analysts-wonder-why.html"
+        },
+        {
+          "name": "Tokyo Slips to End Year",
+          "size": 77,
+          "link": "http://www.nytimes.com/1996/12/31/business/tokyo-slips-to-end-year.html"
+        },
+        {
+          "name": "Hoteliers turn to the data base in search of a new means of more effective direct-mail marketing.",
+          "size": 839,
+          "link": "http://www.nytimes.com/1996/12/31/business/hoteliers-turn-data-base-search-new-means-more-effective-direct-mail-marketing.html"
+        }
+      ],
+      "section_name": "Business"
     }
-  ]
+  ],
+  "section_name": "Articles"
 }

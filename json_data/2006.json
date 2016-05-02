@@ -3,155 +3,41 @@
   "size": 500,
   "children": [
     {
-      "section_name": "Magazine",
+      "section_name": "Books",
       "children": [
         {
-          "size": 447,
-          "name": "Contributors"
-        }
-      ]
-    },
-    {
-      "section_name": "Travel",
-      "children": [
-        {
-          "size": 21,
-          "name": "36 Hours in London"
+          "name": "The Contender",
+          "size": 600
         },
         {
-          "size": 31,
-          "name": "Why We Travel",
-          "link": "http://www.nytimes.com/slideshow/2006/12/31/travel/20061231_WHY_slideshow_index.html"
+          "name": "\u2018Mothers and Sons: Stories\u2019",
+          "size": 2695,
+          "link": "http://www.nytimes.com/2006/12/31/books/chapters/1231-1st-toib.html"
         },
         {
-          "size": 1020,
-          "name": "The 25 Most E-Mailed Travel Articles of 2006",
-          "link": "http://www.nytimes.com/2006/12/31/travel/31popular.html"
-        }
-      ]
-    },
-    {
-      "section_name": "Fashion & Style",
-      "children": [
-        {
-          "size": 63,
-          "name": "Blizzard"
-        }
-      ]
-    },
-    {
-      "section_name": "Arts",
-      "children": [
-        {
-          "size": 15,
-          "name": "Opera on Screen"
-        }
-      ]
-    },
-    {
-      "section_name": "U.S.",
-      "children": [
-        {
-          "size": 717,
-          "name": "Warm Memories of Gerald Ford on a Chilly Day"
+          "name": "\u2018A Royal Affair\u2019",
+          "size": 2642,
+          "link": "http://www.nytimes.com/2006/12/31/books/chapters/1231-1st-till.html"
         },
         {
-          "size": 3108,
-          "name": "A Grim Milestone in Iraq: 3,000 American Deaths",
-          "link": "http://www.nytimes.com/2006/12/31/us/31deathscnd.html"
+          "name": "\u2018Augustus\u2019",
+          "size": 2582,
+          "link": "http://www.nytimes.com/2006/12/31/books/chapters/1231-1st-ever.html"
         },
         {
-          "size": 814,
-          "name": "Augusta\u2019s Turn to Say Goodbye to James Brown",
-          "link": "http://www.nytimes.com/2006/12/31/us/31brown.html"
-        }
-      ]
-    },
-    {
-      "section_name": "Corrections",
-      "children": [
-        {
-          "size": 509,
-          "name": "Corrections"
-        }
-      ]
-    },
-    {
-      "section_name": "Sports",
-      "children": [
-        {
-          "size": 3098,
-          "name": "Final Score: Jets 23, Raiders 3"
+          "name": "\u2018Somewhere: The Life of Jerome Robbins\u2019",
+          "size": 3061,
+          "link": "http://www.nytimes.com/2006/12/31/books/chapters/1231-1st-vaill.html"
         },
         {
-          "size": 1172,
-          "name": "Third Time for Tynes (the Transcript)",
-          "link": "http://fifthdown.blogs.nytimes.com/2006/12/31/third-time-for-tynes-the-transcript/"
+          "name": "\u2018The Great Escape\u2019",
+          "size": 2702,
+          "link": "http://www.nytimes.com/2006/12/31/books/chapters/1231-1st-mart.html"
         },
         {
-          "size": 276,
-          "name": "Who Should Be Coach of the Year?",
-          "link": "http://fifthdown.blogs.nytimes.com/2006/12/31/who-should-be-coach-of-the-year/"
-        },
-        {
-          "size": 238,
-          "name": "Game-Tracking Today",
-          "link": "http://fifthdown.blogs.nytimes.com/2006/12/31/game-tracking-today-2/"
-        },
-        {
-          "size": 731,
-          "name": "Giants Find Spark in Familiar Place",
-          "link": "http://www.nytimes.com/2006/12/31/sports/football/31blue.html"
-        },
-        {
-          "size": 611,
-          "name": "An Early Collision Helps The Rangers End a Skid",
-          "link": "http://www.nytimes.com/2006/12/31/sports/hockey/31rangers.html"
-        },
-        {
-          "size": 788,
-          "name": "Nets Show Little Sign of Wear in Second Win in Two Nights",
-          "link": "http://www.nytimes.com/2006/12/31/sports/basketball/31nets.html"
-        },
-        {
-          "size": 600,
-          "name": "Magic Takes Advantage of Short-Handed Heat",
-          "link": "http://www.nytimes.com/2006/12/31/sports/basketball/31nba.html"
-        },
-        {
-          "size": 437,
-          "name": "Devils&#8217; Brodeur Stymies Islanders for His Sixth Shutout",
-          "link": "http://www.nytimes.com/2006/12/31/sports/hockey/31nhl.html"
-        },
-        {
-          "size": 697,
-          "name": "Knicks Still Struggling With an Identity Crisis",
-          "link": "http://www.nytimes.com/2006/12/31/sports/basketball/31knicks.html"
-        },
-        {
-          "size": 151,
-          "name": "Yankees and Arizona Still Discussing a Trade",
-          "link": "http://www.nytimes.com/2006/12/31/sports/baseball/31johnson.html"
-        },
-        {
-          "size": 684,
-          "name": "Arizona Holds Off Stanford to Win 11th Straight Game",
-          "link": "http://www.nytimes.com/2006/12/31/sports/ncaabasketball/31men.html"
-        },
-        {
-          "size": 571,
-          "name": "McCoy Ties Record as Longhorns Rally Past Hawkeyes",
-          "link": "http://www.nytimes.com/2006/12/31/sports/ncaafootball/31bowls.html"
-        },
-        {
-          "size": 487,
-          "name": "Second-Half Push Propels Tennessee",
-          "link": "http://www.nytimes.com/2006/12/31/sports/ncaabasketball/31women.html"
-        },
-        {
-          "size": 344,
-          "name": "Sports Briefing",
-          "link": "http://www.nytimes.com/2006/12/31/sports/31sportsbriefs.html"
+          "name": "\u2018Tales of the Out & the Gone\u2019",
+          "size": 413,
+          "link": "http://www.nytimes.com/2006/12/31/books/chapters/1231-1st-bara.html"
         }
       ]
     },
@@ -159,105 +45,27 @@
       "section_name": "Washington",
       "children": [
         {
-          "size": 1154,
-          "name": "Ford, in Final Journey, Returns to \u2018Real Home\u2019 for a Solemn Memorial"
+          "name": "Ford, in Final Journey, Returns to \u2018Real Home\u2019 for a Solemn Memorial",
+          "size": 1154
         }
       ]
     },
     {
-      "section_name": "Sunday Magazine",
+      "section_name": "Travel",
       "children": [
         {
-          "size": 555,
-          "name": "The Cameraphone Witness"
-        }
-      ]
-    },
-    {
-      "section_name": "N.Y. / Region",
-      "children": [
-        {
-          "size": 12,
-          "name": "Revolution in the Region"
+          "name": "36 Hours in London",
+          "size": 21
         },
         {
-          "size": 18,
-          "name": "What Winter Used to Be Like",
-          "link": "http://www.nytimes.com/slideshow/2006/12/31/nyregion/thecity/20061231_SNOW_SLIDESHOW_index.html"
+          "name": "Why We Travel",
+          "size": 31,
+          "link": "http://www.nytimes.com/slideshow/2006/12/31/travel/20061231_WHY_slideshow_index.html"
         },
         {
-          "size": 118,
-          "name": "One Killed and One Hurt in Queens Crash",
-          "link": "http://www.nytimes.com/2006/12/31/nyregion/31accident.html"
-        },
-        {
-          "size": 376,
-          "name": "Officer in 2004 Fatal Shooting Is Given a 30-Day Suspension",
-          "link": "http://www.nytimes.com/2006/12/31/nyregion/31suspend.html"
-        },
-        {
-          "size": 860,
-          "name": "At the Coliseum Bookstore, Little Is Left but the Shelves",
-          "link": "http://www.nytimes.com/2006/12/31/nyregion/31coliseum.html"
-        },
-        {
-          "size": 863,
-          "name": "Bruno\u2019s Friend Was Given Stock Incentive, Document Says",
-          "link": "http://www.nytimes.com/2006/12/31/nyregion/31inquiry.html"
-        },
-        {
-          "size": 676,
-          "name": "Off-Duty Officer Hurt in Queens Shootout",
-          "link": "http://www.nytimes.com/2006/12/31/nyregion/31officer.html"
-        },
-        {
-          "size": 513,
-          "name": "Man Is Killed at Police Athletic League Building in Harlem",
-          "link": "http://www.nytimes.com/2006/12/31/nyregion/31shot.html"
-        },
-        {
-          "size": 1147,
-          "name": "Serving as Ford\u2019s No. 2, Rockefeller Never Took His Eye Off Top Job",
-          "link": "http://www.nytimes.com/2006/12/31/nyregion/31rocky.html"
-        }
-      ]
-    },
-    {
-      "section_name": "Books",
-      "children": [
-        {
-          "size": 600,
-          "name": "The Contender"
-        },
-        {
-          "size": 2695,
-          "name": "\u2018Mothers and Sons: Stories\u2019",
-          "link": "http://www.nytimes.com/2006/12/31/books/chapters/1231-1st-toib.html"
-        },
-        {
-          "size": 2642,
-          "name": "\u2018A Royal Affair\u2019",
-          "link": "http://www.nytimes.com/2006/12/31/books/chapters/1231-1st-till.html"
-        },
-        {
-          "size": 2582,
-          "name": "\u2018Augustus\u2019",
-          "link": "http://www.nytimes.com/2006/12/31/books/chapters/1231-1st-ever.html"
-        },
-        {
-          "size": 3061,
-          "name": "\u2018Somewhere: The Life of Jerome Robbins\u2019",
-          "link": "http://www.nytimes.com/2006/12/31/books/chapters/1231-1st-vaill.html"
-        },
-        {
-          "size": 2702,
-          "name": "\u2018The Great Escape\u2019",
-          "link": "http://www.nytimes.com/2006/12/31/books/chapters/1231-1st-mart.html"
-        },
-        {
-          "size": 413,
-          "name": "\u2018Tales of the Out & the Gone\u2019",
-          "link": "http://www.nytimes.com/2006/12/31/books/chapters/1231-1st-bara.html"
+          "name": "The 25 Most E-Mailed Travel Articles of 2006",
+          "size": 1020,
+          "link": "http://www.nytimes.com/2006/12/31/travel/31popular.html"
         }
       ]
     },
@@ -265,38 +73,230 @@
       "section_name": "World",
       "children": [
         {
-          "size": 7,
-          "name": "New Year's Celebrations"
+          "name": "New Year's Celebrations",
+          "size": 7
         },
         {
-          "size": 3187,
           "name": "Hussein Videos Grip Iraq; Attacks Go On",
+          "size": 3187,
           "link": "http://www.nytimes.com/2006/12/31/world/middleeast/31cnd-iraq.html"
         },
         {
-          "size": 589,
           "name": "Islamists, Cornered in Somalia, Lose Local Support",
+          "size": 589,
           "link": "http://www.nytimes.com/2006/12/31/world/africa/31cnd-somalia.html"
         },
         {
-          "size": 875,
           "name": "Hamas Cites Progress in Deal Over Israeli Soldier",
+          "size": 875,
           "link": "http://www.nytimes.com/2006/12/31/world/middleeast/31cnd-mideast.html"
         },
         {
-          "size": 644,
           "name": "Bombings in Bangkok Kill 2 and Injure at Least 28",
+          "size": 644,
           "link": "http://www.nytimes.com/2006/12/31/world/asia/31cnd-thai.html"
         },
         {
-          "size": 1308,
           "name": "Hussein\u2019s Case Won\u2019t Bolster International Human Rights Law, Experts Fear",
+          "size": 1308,
           "link": "http://www.nytimes.com/2006/12/31/world/middleeast/31history.html"
         },
         {
-          "size": 937,
           "name": "On the Gallows, Curses for U.S. and \u2018Traitors\u2019",
+          "size": 937,
           "link": "http://www.nytimes.com/2006/12/31/world/middleeast/31gallows.html"
+        }
+      ]
+    },
+    {
+      "section_name": "Sports",
+      "children": [
+        {
+          "name": "Final Score: Jets 23, Raiders 3",
+          "size": 3098
+        },
+        {
+          "name": "Third Time for Tynes (the Transcript)",
+          "size": 1172,
+          "link": "http://fifthdown.blogs.nytimes.com/2006/12/31/third-time-for-tynes-the-transcript/"
+        },
+        {
+          "name": "Who Should Be Coach of the Year?",
+          "size": 276,
+          "link": "http://fifthdown.blogs.nytimes.com/2006/12/31/who-should-be-coach-of-the-year/"
+        },
+        {
+          "name": "Game-Tracking Today",
+          "size": 238,
+          "link": "http://fifthdown.blogs.nytimes.com/2006/12/31/game-tracking-today-2/"
+        },
+        {
+          "name": "Giants Find Spark in Familiar Place",
+          "size": 731,
+          "link": "http://www.nytimes.com/2006/12/31/sports/football/31blue.html"
+        },
+        {
+          "name": "An Early Collision Helps The Rangers End a Skid",
+          "size": 611,
+          "link": "http://www.nytimes.com/2006/12/31/sports/hockey/31rangers.html"
+        },
+        {
+          "name": "Nets Show Little Sign of Wear in Second Win in Two Nights",
+          "size": 788,
+          "link": "http://www.nytimes.com/2006/12/31/sports/basketball/31nets.html"
+        },
+        {
+          "name": "Magic Takes Advantage of Short-Handed Heat",
+          "size": 600,
+          "link": "http://www.nytimes.com/2006/12/31/sports/basketball/31nba.html"
+        },
+        {
+          "name": "Devils&#8217; Brodeur Stymies Islanders for His Sixth Shutout",
+          "size": 437,
+          "link": "http://www.nytimes.com/2006/12/31/sports/hockey/31nhl.html"
+        },
+        {
+          "name": "Knicks Still Struggling With an Identity Crisis",
+          "size": 697,
+          "link": "http://www.nytimes.com/2006/12/31/sports/basketball/31knicks.html"
+        },
+        {
+          "name": "Yankees and Arizona Still Discussing a Trade",
+          "size": 151,
+          "link": "http://www.nytimes.com/2006/12/31/sports/baseball/31johnson.html"
+        },
+        {
+          "name": "Arizona Holds Off Stanford to Win 11th Straight Game",
+          "size": 684,
+          "link": "http://www.nytimes.com/2006/12/31/sports/ncaabasketball/31men.html"
+        },
+        {
+          "name": "McCoy Ties Record as Longhorns Rally Past Hawkeyes",
+          "size": 571,
+          "link": "http://www.nytimes.com/2006/12/31/sports/ncaafootball/31bowls.html"
+        },
+        {
+          "name": "Second-Half Push Propels Tennessee",
+          "size": 487,
+          "link": "http://www.nytimes.com/2006/12/31/sports/ncaabasketball/31women.html"
+        },
+        {
+          "name": "Sports Briefing",
+          "size": 344,
+          "link": "http://www.nytimes.com/2006/12/31/sports/31sportsbriefs.html"
+        }
+      ]
+    },
+    {
+      "section_name": "Corrections",
+      "children": [
+        {
+          "name": "Corrections",
+          "size": 509
+        }
+      ]
+    },
+    {
+      "section_name": "Magazine",
+      "children": [
+        {
+          "name": "Contributors",
+          "size": 447
+        }
+      ]
+    },
+    {
+      "section_name": "Sunday Magazine",
+      "children": [
+        {
+          "name": "The Cameraphone Witness",
+          "size": 555
+        }
+      ]
+    },
+    {
+      "section_name": "N.Y. / Region",
+      "children": [
+        {
+          "name": "Revolution in the Region",
+          "size": 12
+        },
+        {
+          "name": "What Winter Used to Be Like",
+          "size": 18,
+          "link": "http://www.nytimes.com/slideshow/2006/12/31/nyregion/thecity/20061231_SNOW_SLIDESHOW_index.html"
+        },
+        {
+          "name": "One Killed and One Hurt in Queens Crash",
+          "size": 118,
+          "link": "http://www.nytimes.com/2006/12/31/nyregion/31accident.html"
+        },
+        {
+          "name": "Officer in 2004 Fatal Shooting Is Given a 30-Day Suspension",
+          "size": 376,
+          "link": "http://www.nytimes.com/2006/12/31/nyregion/31suspend.html"
+        },
+        {
+          "name": "At the Coliseum Bookstore, Little Is Left but the Shelves",
+          "size": 860,
+          "link": "http://www.nytimes.com/2006/12/31/nyregion/31coliseum.html"
+        },
+        {
+          "name": "Bruno\u2019s Friend Was Given Stock Incentive, Document Says",
+          "size": 863,
+          "link": "http://www.nytimes.com/2006/12/31/nyregion/31inquiry.html"
+        },
+        {
+          "name": "Off-Duty Officer Hurt in Queens Shootout",
+          "size": 676,
+          "link": "http://www.nytimes.com/2006/12/31/nyregion/31officer.html"
+        },
+        {
+          "name": "Man Is Killed at Police Athletic League Building in Harlem",
+          "size": 513,
+          "link": "http://www.nytimes.com/2006/12/31/nyregion/31shot.html"
+        },
+        {
+          "name": "Serving as Ford\u2019s No. 2, Rockefeller Never Took His Eye Off Top Job",
+          "size": 1147,
+          "link": "http://www.nytimes.com/2006/12/31/nyregion/31rocky.html"
+        }
+      ]
+    },
+    {
+      "section_name": "Arts",
+      "children": [
+        {
+          "name": "Opera on Screen",
+          "size": 15
+        }
+      ]
+    },
+    {
+      "section_name": "U.S.",
+      "children": [
+        {
+          "name": "Warm Memories of Gerald Ford on a Chilly Day",
+          "size": 717
+        },
+        {
+          "name": "A Grim Milestone in Iraq: 3,000 American Deaths",
+          "size": 3108,
+          "link": "http://www.nytimes.com/2006/12/31/us/31deathscnd.html"
+        },
+        {
+          "name": "Augusta\u2019s Turn to Say Goodbye to James Brown",
+          "size": 814,
+          "link": "http://www.nytimes.com/2006/12/31/us/31brown.html"
+        }
+      ]
+    },
+    {
+      "section_name": "Fashion & Style",
+      "children": [
+        {
+          "name": "Blizzard",
+          "size": 63
         }
       ]
     }

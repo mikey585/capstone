@@ -1,104 +1,62 @@
 {
-  "size": 500,
   "section_name": "Articles",
   "children": [
-    {
-      "section_name": "Arts; Obituaries",
-      "children": [
-        {
-          "size": 1782,
-          "name": "Artie Shaw, Bandleader, Composer and Wizard of the Clarinet, Is Dead at 94"
-        }
-      ]
-    },
     {
       "section_name": "Business",
       "children": [
         {
-          "size": 628,
-          "name": "On a Quiet Day, Profit Taking Leaves Markets Mixed"
+          "name": "On a Quiet Day, Profit Taking Leaves Markets Mixed",
+          "size": 628
         },
         {
+          "name": "I.B.M. Division Headed to China Has Made No Profit in 3 1/2 Years",
           "link": "http://www.nytimes.com/2004/12/31/technology/31computer.html",
-          "size": 234,
-          "name": "I.B.M. Division Headed to China Has Made No Profit in 3 1/2 Years"
+          "size": 234
         },
         {
+          "name": "Ex-S.E.C. Lawyer Joins New York Firm",
           "link": "http://www.nytimes.com/2004/12/31/business/31law.html",
-          "size": 137,
-          "name": "Ex-S.E.C. Lawyer Joins New York Firm"
+          "size": 137
         },
         {
+          "name": "States vs. U.S.: Who Will Police Insurance Firms?",
           "link": "http://www.nytimes.com/2004/12/31/business/31regs.html",
-          "size": 1764,
-          "name": "States vs. U.S.: Who Will Police Insurance Firms?"
+          "size": 1764
         },
         {
-          "link": "http://www.nytimes.com/2004/12/31/business/worldbusiness/31yukos.html",
-          "size": 581,
-          "name": "China May Be Offered Stake in Yukos Subsidiary"
+          "name": "I.B.M. Division Headed to China Has Made No Profit in 3 1/2 Years",
+          "link": "http://www.nytimes.com/2004/12/31/technology/31computer.html",
+          "size": 234
         },
         {
-          "link": "http://www.nytimes.com/2004/12/31/business/worldbusiness/31yukos.html",
-          "size": 581,
-          "name": "China May Be Offered Stake in Yukos Subsidiary"
+          "name": "Ex-S.E.C. Lawyer Joins New York Firm",
+          "link": "http://www.nytimes.com/2004/12/31/business/31law.html",
+          "size": 137
         },
         {
+          "name": "States vs. U.S.: Who Will Police Insurance Firms?",
+          "link": "http://www.nytimes.com/2004/12/31/business/31regs.html",
+          "size": 1764
+        },
+        {
+          "name": "THE MARKETS: CURRENCIES",
           "link": "http://query.nytimes.com/gst/fullpage.html?res=9D01E4DB1439F932A05751C1A9629C8B63",
-          "size": 36,
-          "name": "THE MARKETS: CURRENCIES"
-        }
-      ]
-    },
-    {
-      "section_name": "New York and Region",
-      "children": [
-        {
-          "size": 376,
-          "name": "Holiday Weekend -- New Year's Eve and Day"
+          "size": 36
         },
         {
-          "link": "http://query.nytimes.com/gst/fullpage.html?res=9807EED71439F932A05751C1A9629C8B63",
-          "size": 92,
-          "name": "Metro Briefing | New York: Queens: Arrest In Mall Killing"
+          "name": "Oracle Fires Top PeopleSoft Executives",
+          "link": "http://www.nytimes.com/2004/12/31/technology/31oracle.html",
+          "size": 111
         },
         {
-          "link": "http://www.nytimes.com/2004/12/31/nyregion/31holidaybox.html",
-          "size": 376,
-          "name": "Holiday Weekend -- New Year's Eve and Day"
+          "name": "China May Be Offered Stake in Yukos Subsidiary",
+          "link": "http://www.nytimes.com/2004/12/31/business/worldbusiness/31yukos.html",
+          "size": 581
         },
         {
-          "link": "http://query.nytimes.com/gst/fullpage.html?res=9807EED71439F932A05751C1A9629C8B63",
-          "size": 92,
-          "name": "Metro Briefing | New York: Queens: Arrest In Mall Killing"
-        }
-      ]
-    },
-    {
-      "section_name": "World",
-      "children": [
-        {
-          "size": 325,
-          "name": "Officials Reject Vote Challenge In Ukraine"
-        }
-      ]
-    },
-    {
-      "section_name": "U.S.",
-      "children": [
-        {
-          "size": 2121,
-          "name": "For Whom the Clock Strikes"
-        },
-        {
-          "link": "http://www.nytimes.com/2004/12/31/national/31charity.html",
-          "size": 749,
-          "name": "Spitzer Looking Into World Jewish Congress"
-        },
-        {
-          "link": "http://www.nytimes.com/2004/12/31/national/31gov.html",
-          "size": 843,
-          "name": "Governor-Elect Declared In Washington Recounts"
+          "name": "THE MARKETS: CURRENCIES",
+          "link": "http://query.nytimes.com/gst/fullpage.html?res=9D01E4DB1439F932A05751C1A9629C8B63",
+          "size": 36
         }
       ]
     },
@@ -106,87 +64,68 @@
       "section_name": "Paid Death Notices",
       "children": [
         {
-          "size": 72,
-          "name": "Paid Notice: Deaths   BAUER, JACOB, M.D."
+          "name": "Paid Notice: Deaths  Silberstein, William ",
+          "size": 528
         },
         {
-          "link": "http://query.nytimes.com/gst/fullpage.html?res=9E05EFD61439F932A05751C1A9629C8B63",
-          "size": 88,
-          "name": "Paid Notice: Deaths   STACKMAN, HOWARD"
+          "name": "Paid Notice: Deaths   FREUND, MAX",
+          "link": "http://query.nytimes.com/gst/fullpage.html?res=9C0CE2D61439F932A05751C1A9629C8B63",
+          "size": 102
         },
         {
-          "link": "http://query.nytimes.com/gst/fullpage.html?res=9504E1D61439F932A05751C1A9629C8B63",
-          "size": 117,
-          "name": "Paid Notice: Deaths   GLENN, JUSTINE"
-        },
-        {
+          "name": "Paid Notice: Deaths   NATKINS, MORTIMER J.",
           "link": "http://query.nytimes.com/gst/fullpage.html?res=9B01E0D61439F932A05751C1A9629C8B63",
-          "size": 20,
-          "name": "Paid Notice: Deaths   NATKINS, MORTIMER J."
+          "size": 20
         },
         {
+          "name": "Paid Notice: Deaths   ORBACH, JERRY",
           "link": "http://query.nytimes.com/gst/fullpage.html?res=9C03E0D61439F932A05751C1A9629C8B63",
-          "size": 154,
-          "name": "Paid Notice: Deaths   ORBACH, JERRY"
+          "size": 154
         },
         {
+          "name": "Paid Notice: Memorials   GORMAN, JACK",
           "link": "http://query.nytimes.com/gst/fullpage.html?res=9D00EFD61439F932A05751C1A9629C8B63",
-          "size": 25,
-          "name": "Paid Notice: Memorials   GORMAN, JACK"
+          "size": 25
         },
         {
-          "link": "http://www.legacy.com/Link.asp?I=LS000002982113",
-          "size": 96,
-          "name": "Paid Notice: Deaths  Cauman, Rebecca "
+          "name": "Paid Notice: Deaths   BAUER, JACOB, M.D.",
+          "link": "http://query.nytimes.com/gst/fullpage.html?res=9407E2D61439F932A05751C1A9629C8B63",
+          "size": 72
         },
         {
-          "link": "http://query.nytimes.com/gst/fullpage.html?res=9A0CE0D61439F932A05751C1A9629C8B63",
-          "size": 987,
-          "name": "Paid Notice: Deaths   SILBERSTEIN, WILLIAM"
+          "name": "Paid Notice: Deaths   STACKMAN, HOWARD",
+          "link": "http://query.nytimes.com/gst/fullpage.html?res=9E05EFD61439F932A05751C1A9629C8B63",
+          "size": 88
         },
         {
-          "link": "http://query.nytimes.com/gst/fullpage.html?res=9C03E0D61439F932A05751C1A9629C8B63",
-          "size": 154,
-          "name": "Paid Notice: Deaths   ORBACH, JERRY"
+          "name": "Paid Notice: Deaths   GLENN, JUSTINE",
+          "link": "http://query.nytimes.com/gst/fullpage.html?res=9504E1D61439F932A05751C1A9629C8B63",
+          "size": 117
         },
         {
-          "link": "http://query.nytimes.com/gst/fullpage.html?res=9D00EFD61439F932A05751C1A9629C8B63",
-          "size": 25,
-          "name": "Paid Notice: Memorials   GORMAN, JACK"
+          "name": "Paid Notice: Deaths   NATKINS, MORTIMER J.",
+          "link": "http://query.nytimes.com/gst/fullpage.html?res=9B01E0D61439F932A05751C1A9629C8B63",
+          "size": 20
         },
         {
-          "link": "http://www.legacy.com/Link.asp?I=LS000002982113",
-          "size": 96,
-          "name": "Paid Notice: Deaths  Cauman, Rebecca "
-        },
-        {
-          "link": "http://query.nytimes.com/gst/fullpage.html?res=9A0CE0D61439F932A05751C1A9629C8B63",
-          "size": 987,
-          "name": "Paid Notice: Deaths   SILBERSTEIN, WILLIAM"
-        },
-        {
+          "name": "Paid Notice: Deaths   MODLIN, JOE",
           "link": "http://query.nytimes.com/gst/fullpage.html?res=9D04E0D61439F932A05751C1A9629C8B63",
-          "size": 50,
-          "name": "Paid Notice: Deaths   MODLIN, JOE"
-        }
-      ]
-    },
-    {
-      "section_name": "Opinion",
-      "children": [
-        {
-          "size": 44,
-          "name": "Fair Elections: It's Only American"
+          "size": 50
         },
         {
-          "link": "http://www.nytimes.com/2004/12/31/opinion/31fri2.html",
-          "size": 320,
-          "name": "Energizer Bunnies"
+          "name": "Paid Notice: Deaths   ZBOROWSKI, DIANA",
+          "link": "http://query.nytimes.com/gst/fullpage.html?res=9501EFD61439F932A05751C1A9629C8B63",
+          "size": 32
         },
         {
-          "link": "http://www.nytimes.com/2004/12/31/opinion/31fri2.html",
-          "size": 320,
-          "name": "Energizer Bunnies"
+          "name": "Paid Notice: Deaths   SILBERSTEIN, WILLIAM",
+          "link": "http://query.nytimes.com/gst/fullpage.html?res=9A0CE0D61439F932A05751C1A9629C8B63",
+          "size": 987
+        },
+        {
+          "name": "Paid Notice: Deaths   MODLIN, JOE",
+          "link": "http://query.nytimes.com/gst/fullpage.html?res=9D04E0D61439F932A05751C1A9629C8B63",
+          "size": 50
         }
       ]
     },
@@ -194,36 +133,27 @@
       "section_name": "Sports",
       "children": [
         {
-          "size": 157,
-          "name": "TRANSACTIONS"
+          "name": "TRANSACTIONS",
+          "size": 157
         }
       ]
     },
     {
-      "section_name": "Theater; Corrections; New York and Region",
+      "section_name": "New York and Region",
       "children": [
         {
-          "size": 44,
-          "name": "Corrections"
+          "name": "Sale of Estate in Hamptons Raises Bar to $45 Million",
+          "size": 685
         },
         {
-          "link": "http://query.nytimes.com/gst/fullpage.html?res=9804E6D61439F932A05751C1A9629C8B63",
-          "size": 44,
-          "name": "Corrections"
-        }
-      ]
-    },
-    {
-      "section_name": "Front Page; New York and Region",
-      "children": [
-        {
-          "size": 106,
-          "name": "INSIDE"
+          "name": "Holiday Weekend -- New Year's Eve and Day",
+          "link": "http://www.nytimes.com/2004/12/31/nyregion/31holidaybox.html",
+          "size": 376
         },
         {
-          "link": "http://query.nytimes.com/gst/fullpage.html?res=9807EFD91439F932A05751C1A9629C8B63",
-          "size": 106,
-          "name": "INSIDE"
+          "name": "Metro Briefing | New York: Queens: Arrest In Mall Killing",
+          "link": "http://query.nytimes.com/gst/fullpage.html?res=9807EED71439F932A05751C1A9629C8B63",
+          "size": 92
         }
       ]
     },
@@ -231,60 +161,93 @@
       "section_name": "Health; Business",
       "children": [
         {
-          "size": 213,
-          "name": "Documents Said to Show Prozac Risks"
+          "name": "Documents Said to Show Prozac Risks",
+          "size": 213
         }
       ]
     },
     {
-      "section_name": null,
+      "section_name": "Arts; Obituaries",
       "children": [
         {
-          "size": 567,
-          "name": "Wade's Triple-Double Helps Miami Win 13th Straight"
+          "name": "Artie Shaw, Bandleader, Composer and Wizard of the Clarinet, Is Dead at 94",
+          "size": 1782
         },
         {
-          "link": "http://query.nytimes.com/gst/fullpage.html?res=980CE1DB1439F932A05751C1A9629C8B63",
-          "size": 0,
-          "name": "Heavy Rains Overwhelm West"
-        },
-        {
-          "link": "http://query.nytimes.com/gst/fullpage.html?res=980CE1DB1439F932A05751C1A9629C8B63",
-          "size": 0,
-          "name": "Heavy Rains Overwhelm West"
-        },
-        {
-          "link": "http://www.nytimes.com/2004/12/31/sports/ncaabasketball/31women.html",
-          "size": 205,
-          "name": "Penn State Women Topple No. 9 Ohio State"
+          "name": "Artie Shaw, Bandleader, Composer and Wizard of the Clarinet, Is Dead at 94",
+          "link": "http://query.nytimes.com/gst/fullpage.html?res=9401EFDB1439F932A05751C1A9629C8B63",
+          "size": 1782
         }
       ]
     },
     {
-      "section_name": "Obituaries; Sports",
+      "section_name": "World",
       "children": [
         {
-          "size": 618,
-          "name": "Rod Kanehl, 70, an Original Met, Is Dead"
+          "name": "Officials Reject Vote Challenge In Ukraine",
+          "size": 325
         },
         {
-          "link": "http://www.nytimes.com/2004/12/31/sports/31kanehl.html",
-          "size": 618,
-          "name": "Rod Kanehl, 70, an Original Met, Is Dead"
+          "name": "World Briefing | Middle East: Emirates Witness Rare Snowfall",
+          "link": "/data/daily/2004/12/31/028274.sgml",
+          "size": 69
         }
       ]
     },
     {
-      "section_name": "Movies; Arts",
+      "section_name": "Opinion",
       "children": [
         {
-          "size": 885,
-          "name": "Arts, Briefly"
+          "name": "Jewish Burial Traditions",
+          "size": 172
         },
         {
-          "link": "http://query.nytimes.com/gst/fullpage.html?res=9C07EFD81439F932A05751C1A9629C8B63",
-          "size": 885,
-          "name": "Arts, Briefly"
+          "name": "Fair Elections: It's Only American",
+          "link": "http://query.nytimes.com/gst/fullpage.html?res=9901E2D81439F932A05751C1A9629C8B63",
+          "size": 44
+        },
+        {
+          "name": "Fair Elections: It's Only American",
+          "link": "http://query.nytimes.com/gst/fullpage.html?res=9901E2D81439F932A05751C1A9629C8B63",
+          "size": 44
+        },
+        {
+          "name": "Energizer Bunnies",
+          "link": "http://www.nytimes.com/2004/12/31/opinion/31fri2.html",
+          "size": 320
+        }
+      ]
+    },
+    {
+      "section_name": "World; Front Page; Health",
+      "children": [
+        {
+          "name": "MANY STILL IN NEED AS AID IS TRICKLING TO STRICKEN AREA",
+          "size": 1562
+        }
+      ]
+    },
+    {
+      "section_name": "U.S.",
+      "children": [
+        {
+          "name": "For Whom the Clock Strikes",
+          "size": 2121
+        },
+        {
+          "name": "Spitzer Looking Into World Jewish Congress",
+          "link": "http://www.nytimes.com/2004/12/31/national/31charity.html",
+          "size": 749
+        },
+        {
+          "name": "Governor-Elect Declared In Washington Recounts",
+          "link": "http://www.nytimes.com/2004/12/31/national/31gov.html",
+          "size": 843
+        },
+        {
+          "name": "Governor-Elect Declared In Washington Recounts",
+          "link": "http://www.nytimes.com/2004/12/31/national/31gov.html",
+          "size": 843
         }
       ]
     },
@@ -292,13 +255,50 @@
       "section_name": "Corrections; New York and Region",
       "children": [
         {
-          "size": 48,
-          "name": "Corrections"
+          "name": "Corrections",
+          "size": 48
+        }
+      ]
+    },
+    {
+      "section_name": "Education; Corrections; New York and Region",
+      "children": [
+        {
+          "name": "Corrections",
+          "size": 43
+        }
+      ]
+    },
+    {
+      "section_name": "Movies; Arts",
+      "children": [
+        {
+          "name": "The Listings; PHAEDRA",
+          "size": 196
         },
         {
-          "link": "http://query.nytimes.com/gst/fullpage.html?res=9D01E7D61439F932A05751C1A9629C8B63",
-          "size": 48,
-          "name": "Corrections"
+          "name": "Arts, Briefly",
+          "link": "http://query.nytimes.com/gst/fullpage.html?res=9C07EFD81439F932A05751C1A9629C8B63",
+          "size": 885
+        }
+      ]
+    },
+    {
+      "section_name": null,
+      "children": [
+        {
+          "name": "Wade's Triple-Double Helps Miami Win 13th Straight",
+          "size": 567
+        },
+        {
+          "name": "Penn State Women Topple No. 9 Ohio State",
+          "link": "http://www.nytimes.com/2004/12/31/sports/ncaabasketball/31women.html",
+          "size": 205
+        },
+        {
+          "name": "Penn State Women Topple No. 9 Ohio State",
+          "link": "http://www.nytimes.com/2004/12/31/sports/ncaabasketball/31women.html",
+          "size": 205
         }
       ]
     },
@@ -306,15 +306,11 @@
       "section_name": "World; Front Page",
       "children": [
         {
-          "size": 5232,
-          "name": "How Scientists and Victims Watched Helplessly"
-        },
-        {
-          "link": "http://www.nytimes.com/2004/12/31/international/worldspecial4/31wave.html",
-          "size": 5232,
-          "name": "How Scientists and Victims Watched Helplessly"
+          "name": "How Scientists and Victims Watched Helplessly",
+          "size": 5232
         }
       ]
     }
-  ]
+  ],
+  "size": 500
 }

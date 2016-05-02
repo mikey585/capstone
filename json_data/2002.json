@@ -1,103 +1,23 @@
 {
+  "size": 500,
   "section_name": "Articles",
   "children": [
     {
-      "section_name": "Paid Death Notices",
+      "section_name": "U.S.",
       "children": [
         {
-          "name": "Paid Notice: Deaths  Conston, Eve ",
-          "size": 43
+          "name": "It's a Small World After All",
+          "size": 1964
         },
         {
-          "name": "Paid Notice: Deaths  KLAINBERG, SARA",
-          "link": "http://www.nytimes.com/2002/12/31/classified/paid-notice-deaths-klainberg-sara.html",
-          "size": 18
+          "name": "Recent Events Made Him Better Man, Lott Says",
+          "size": 301,
+          "link": "http://www.nytimes.com/2002/12/31/us/recent-events-made-him-better-man-lott-says.html"
         },
         {
-          "name": "Paid Notice: Deaths  HOLLANDER, PETER K.",
-          "link": "http://www.nytimes.com/2002/12/31/classified/paid-notice-deaths-hollander-peter-k.html",
-          "size": 56
-        },
-        {
-          "name": "Paid Notice: Deaths  Conston, Eve ",
-          "link": "http://www.legacy.com/Link.asp?I=LS000000686651",
-          "size": 43
-        },
-        {
-          "name": "Paid Notice: Deaths  Baccaglini, Edmond J.",
-          "link": "http://www.legacy.com/Link.asp?I=LS000000686650",
-          "size": 91
-        },
-        {
-          "name": "Paid Notice: Deaths  BACCAGLINI, EDMOND J.",
-          "link": "http://www.nytimes.com/2002/12/31/classified/paid-notice-deaths-baccaglini-edmond-j.html",
-          "size": 92
-        },
-        {
-          "name": "Paid Notice: Deaths  CONSTON, EVE",
-          "link": "http://www.nytimes.com/2002/12/31/classified/paid-notice-deaths-conston-eve.html",
-          "size": 43
-        },
-        {
-          "name": "Paid Notice: Deaths  SAMUROVICH, THEODORE SIMEON. ''THEO''",
-          "link": "http://www.nytimes.com/2002/12/31/classified/paid-notice-deaths-samurovich-theodore-simeon-theo.html",
-          "size": 68
-        },
-        {
-          "name": "Paid Notice: Deaths  BARTON, GLADYS HOLLANDER",
-          "link": "http://www.nytimes.com/2002/12/31/classified/paid-notice-deaths-barton-gladys-hollander.html",
-          "size": 42
-        }
-      ]
-    },
-    {
-      "section_name": "Sports",
-      "children": [
-        {
-          "name": "Rangers Asking Same Old Questions",
-          "size": 632
-        },
-        {
-          "name": "And Now, the Second Season; Jets Work on Constructing A Legacy to Be Proud Of",
-          "link": "http://www.nytimes.com/2002/12/31/sports/and-now-the-second-season-jets-work-on-constructing-a-legacy-to-be-proud-of.html",
-          "size": 1036
-        },
-        {
-          "name": "TRANSACTIONS",
-          "link": "http://www.nytimes.com/2002/12/31/sports/transactions-639710.html",
-          "size": 159
-        }
-      ]
-    },
-    {
-      "section_name": "Front Page",
-      "children": [
-        {
-          "name": "New Leader Takes Over in Kenya",
-          "size": 0
-        },
-        {
-          "name": "Testing, Testing . . . 3, 2, 1",
-          "link": "http://www.nytimes.com/2002/12/31/nyregion/testing-testing-3-2-1.html",
-          "size": 0
-        }
-      ]
-    },
-    {
-      "section_name": "Arts; Books",
-      "children": [
-        {
-          "name": "A Doer of Good Deeds Gets a Bashed-In Head",
-          "size": 961
-        }
-      ]
-    },
-    {
-      "section_name": "World; Washington",
-      "children": [
-        {
-          "name": "With Missionaries Spreading, Muslims' Anger Is Following",
-          "size": 791
+          "name": "Five Illegal Arrivals Still Elude F.B.I.",
+          "size": 203,
+          "link": "http://www.nytimes.com/2002/12/31/us/five-illegal-arrivals-still-elude-fbi.html"
         }
       ]
     },
@@ -111,6 +31,24 @@
       ]
     },
     {
+      "section_name": "World; Washington",
+      "children": [
+        {
+          "name": "With Missionaries Spreading, Muslims' Anger Is Following",
+          "size": 791
+        }
+      ]
+    },
+    {
+      "section_name": "Arts; Books",
+      "children": [
+        {
+          "name": "A Doer of Good Deeds Gets a Bashed-In Head",
+          "size": 961
+        }
+      ]
+    },
+    {
       "section_name": "World",
       "children": [
         {
@@ -119,18 +57,67 @@
         },
         {
           "name": "They Choke On Coke, But Savor Mecca-Cola",
-          "link": "http://www.nytimes.com/2002/12/31/world/they-choke-on-coke-but-savor-mecca-cola.html",
-          "size": 970
+          "size": 970,
+          "link": "http://www.nytimes.com/2002/12/31/world/they-choke-on-coke-but-savor-mecca-cola.html"
         },
         {
           "name": "Disillusion Rises Among South Africa's Poor",
-          "link": "http://www.nytimes.com/2002/12/31/world/disillusion-rises-among-south-africa-s-poor.html",
-          "size": 883
+          "size": 883,
+          "link": "http://www.nytimes.com/2002/12/31/world/disillusion-rises-among-south-africa-s-poor.html"
         },
         {
           "name": "U.S. Soldier Is Wounded",
-          "link": "http://www.nytimes.com/2002/12/31/world/us-soldier-is-wounded.html",
-          "size": 98
+          "size": 98,
+          "link": "http://www.nytimes.com/2002/12/31/world/us-soldier-is-wounded.html"
+        }
+      ]
+    },
+    {
+      "section_name": "Paid Death Notices",
+      "children": [
+        {
+          "name": "Paid Notice: Deaths  Conston, Eve ",
+          "size": 43
+        },
+        {
+          "name": "Paid Notice: Deaths  KLAINBERG, SARA",
+          "size": 18,
+          "link": "http://www.nytimes.com/2002/12/31/classified/paid-notice-deaths-klainberg-sara.html"
+        },
+        {
+          "name": "Paid Notice: Deaths  HOLLANDER, PETER K.",
+          "size": 56,
+          "link": "http://www.nytimes.com/2002/12/31/classified/paid-notice-deaths-hollander-peter-k.html"
+        },
+        {
+          "name": "Paid Notice: Deaths  Conston, Eve ",
+          "size": 43,
+          "link": "http://www.legacy.com/Link.asp?I=LS000000686651"
+        },
+        {
+          "name": "Paid Notice: Deaths  Baccaglini, Edmond J.",
+          "size": 91,
+          "link": "http://www.legacy.com/Link.asp?I=LS000000686650"
+        },
+        {
+          "name": "Paid Notice: Deaths  BACCAGLINI, EDMOND J.",
+          "size": 92,
+          "link": "http://www.nytimes.com/2002/12/31/classified/paid-notice-deaths-baccaglini-edmond-j.html"
+        },
+        {
+          "name": "Paid Notice: Deaths  CONSTON, EVE",
+          "size": 43,
+          "link": "http://www.nytimes.com/2002/12/31/classified/paid-notice-deaths-conston-eve.html"
+        },
+        {
+          "name": "Paid Notice: Deaths  SAMUROVICH, THEODORE SIMEON. ''THEO''",
+          "size": 68,
+          "link": "http://www.nytimes.com/2002/12/31/classified/paid-notice-deaths-samurovich-theodore-simeon-theo.html"
+        },
+        {
+          "name": "Paid Notice: Deaths  BARTON, GLADYS HOLLANDER",
+          "size": 42,
+          "link": "http://www.nytimes.com/2002/12/31/classified/paid-notice-deaths-barton-gladys-hollander.html"
         }
       ]
     },
@@ -143,82 +130,85 @@
         },
         {
           "name": "National Briefing | Midwest: Wisconsin: Global Stalking System",
-          "link": "http://www.nytimes.com/2002/12/31/us/national-briefing-midwest-wisconsin-global-stalking-system.html",
-          "size": 77
+          "size": 77,
+          "link": "http://www.nytimes.com/2002/12/31/us/national-briefing-midwest-wisconsin-global-stalking-system.html"
         },
         {
           "name": "National Briefing | New England: Massachusetts: An Official Reflects",
-          "link": "http://www.nytimes.com/2002/12/31/us/national-briefing-new-england-massachusetts-an-official-reflects.html",
-          "size": 102
+          "size": 102,
+          "link": "http://www.nytimes.com/2002/12/31/us/national-briefing-new-england-massachusetts-an-official-reflects.html"
         },
         {
           "name": "National Briefing | New England: Vermont: The Scent Of Bail Money",
-          "link": "http://www.nytimes.com/2002/12/31/us/national-briefing-new-england-vermont-the-scent-of-bail-money.html",
-          "size": 111
+          "size": 111,
+          "link": "http://www.nytimes.com/2002/12/31/us/national-briefing-new-england-vermont-the-scent-of-bail-money.html"
         },
         {
           "name": "Texas Coach To Return Home",
-          "link": "http://www.nytimes.com/2002/12/31/sports/plus-track-and-field-texas-coach-to-return-home.html",
-          "size": 127
+          "size": 127,
+          "link": "http://www.nytimes.com/2002/12/31/sports/plus-track-and-field-texas-coach-to-return-home.html"
         },
         {
           "name": "Blue Jays Sign Catalanotto",
-          "link": "http://www.nytimes.com/2002/12/31/sports/plus-baseball-blue-jays-sign-catalanotto.html",
-          "size": 55
+          "size": 55,
+          "link": "http://www.nytimes.com/2002/12/31/sports/plus-baseball-blue-jays-sign-catalanotto.html"
         },
         {
           "name": "Kicker Carries Gophers to Victory",
-          "link": "http://www.nytimes.com/2002/12/31/sports/college-football-bowl-roundup-kicker-carries-gophers-to-victory.html",
-          "size": 396
+          "size": 396,
+          "link": "http://www.nytimes.com/2002/12/31/sports/college-football-bowl-roundup-kicker-carries-gophers-to-victory.html"
         },
         {
           "name": "Sabres' Tumble Continues",
-          "link": "http://www.nytimes.com/2002/12/31/sports/nhl-roundup-sabres-tumble-continues.html",
-          "size": 467
+          "size": 467,
+          "link": "http://www.nytimes.com/2002/12/31/sports/nhl-roundup-sabres-tumble-continues.html"
         },
         {
           "name": "UConn's Streak Hits 50",
-          "link": "http://www.nytimes.com/2002/12/31/sports/college-basketball-women-s-roundup-uconn-s-streak-hits-50.html",
-          "size": 203
+          "size": 203,
+          "link": "http://www.nytimes.com/2002/12/31/sports/college-basketball-women-s-roundup-uconn-s-streak-hits-50.html"
         },
         {
           "name": "Alabama Is Upset By Utah",
-          "link": "http://www.nytimes.com/2002/12/31/sports/college-basketball-men-s-roundup-alabama-is-upset-by-utah.html",
-          "size": 505
-        },
+          "size": 505,
+          "link": "http://www.nytimes.com/2002/12/31/sports/college-basketball-men-s-roundup-alabama-is-upset-by-utah.html"
+        }
+      ]
+    },
+    {
+      "section_name": "Front Page",
+      "children": [
         {
-          "name": "Mightier Than the Cigarette",
-          "link": "http://www.nytimes.com/2002/12/31/nyregion/mightier-than-the-cigarette.html",
-          "size": 0
-        },
-        {
-          "name": "Feeding the Body, Then the Soul",
-          "link": "http://www.nytimes.com/2002/12/31/nyregion/feeding-the-body-then-the-soul.html",
-          "size": 0
-        },
-        {
-          "name": "A Supremely Snowy Moscow Moment",
-          "link": "http://www.nytimes.com/2002/12/31/world/a-supremely-snowy-moscow-moment.html",
+          "name": "New Leader Takes Over in Kenya",
           "size": 0
         }
       ]
     },
     {
-      "section_name": "U.S.",
+      "section_name": "Opinion",
       "children": [
         {
-          "name": "It's a Small World After All",
-          "size": 1964
+          "name": "Antwone Fisher's Plight",
+          "size": 154
+        }
+      ]
+    },
+    {
+      "section_name": "Sports",
+      "children": [
+        {
+          "name": "Rangers Asking Same Old Questions",
+          "size": 632
         },
         {
-          "name": "Recent Events Made Him Better Man, Lott Says",
-          "link": "http://www.nytimes.com/2002/12/31/us/recent-events-made-him-better-man-lott-says.html",
-          "size": 301
+          "name": "And Now, the Second Season; Jets Work on Constructing A Legacy to Be Proud Of",
+          "size": 1036,
+          "link": "http://www.nytimes.com/2002/12/31/sports/and-now-the-second-season-jets-work-on-constructing-a-legacy-to-be-proud-of.html"
         },
         {
-          "name": "Five Illegal Arrivals Still Elude F.B.I.",
-          "link": "http://www.nytimes.com/2002/12/31/us/five-illegal-arrivals-still-elude-fbi.html",
-          "size": 203
+          "name": "TRANSACTIONS",
+          "size": 159,
+          "link": "http://www.nytimes.com/2002/12/31/sports/transactions-639710.html"
         }
       ]
     },
@@ -231,70 +221,60 @@
         },
         {
           "name": "Stocks Are Mixed, With Political Fears Clouding Trading",
-          "link": "http://www.nytimes.com/2002/12/31/business/markets-stocks-bonds-stocks-are-mixed-with-political-fears-clouding-trading.html",
-          "size": 688
+          "size": 688,
+          "link": "http://www.nytimes.com/2002/12/31/business/markets-stocks-bonds-stocks-are-mixed-with-political-fears-clouding-trading.html"
         },
         {
           "name": "Piper Jaffray Agrees to Settle Charges on Ratings of Stocks",
-          "link": "http://www.nytimes.com/2002/12/31/business/piper-jaffray-agrees-to-settle-charges-on-ratings-of-stocks.html",
-          "size": 328
+          "size": 328,
+          "link": "http://www.nytimes.com/2002/12/31/business/piper-jaffray-agrees-to-settle-charges-on-ratings-of-stocks.html"
         },
         {
           "name": "Two Reports on Economy Fall Short of Forecasts",
-          "link": "http://www.nytimes.com/2002/12/31/business/two-reports-on-economy-fall-short-of-forecasts.html",
-          "size": 366
+          "size": 366,
+          "link": "http://www.nytimes.com/2002/12/31/business/two-reports-on-economy-fall-short-of-forecasts.html"
         },
         {
           "name": "SUNRISE ASSISTED LIVING TO BUY MARRIOTT UNIT",
-          "link": "http://www.nytimes.com/2002/12/31/business/company-news-sunrise-assisted-living-to-buy-marriott-unit.html",
-          "size": 90
+          "size": 90,
+          "link": "http://www.nytimes.com/2002/12/31/business/company-news-sunrise-assisted-living-to-buy-marriott-unit.html"
         },
         {
           "name": "TRIBUNE BUYS TV STATIONS FOR $275 MILLION",
-          "link": "http://www.nytimes.com/2002/12/31/business/company-news-tribune-buys-tv-stations-for-275-million.html",
-          "size": 121
+          "size": 121,
+          "link": "http://www.nytimes.com/2002/12/31/business/company-news-tribune-buys-tv-stations-for-275-million.html"
         },
         {
           "name": "A Charge for Kerr-McGee",
-          "link": "http://www.nytimes.com/2002/12/31/business/a-charge-for-kerr-mcgee.html",
-          "size": 122
+          "size": 122,
+          "link": "http://www.nytimes.com/2002/12/31/business/a-charge-for-kerr-mcgee.html"
         },
         {
           "name": "TASTY BAKING, EXPECTING A LOSS, WILL CLOSE THRIFT STORES",
-          "link": "http://www.nytimes.com/2002/12/31/business/company-news-tasty-baking-expecting-a-loss-will-close-thrift-stores.html",
-          "size": 110
+          "size": 110,
+          "link": "http://www.nytimes.com/2002/12/31/business/company-news-tasty-baking-expecting-a-loss-will-close-thrift-stores.html"
         },
         {
           "name": "Technology Briefing | Telecommunications: Nokia To Provide Services To Finnish Company",
-          "link": "http://www.nytimes.com/2002/12/31/business/technology-briefing-telecommunications-nokia-provide-services-finnish-company.html",
-          "size": 64
+          "size": 64,
+          "link": "http://www.nytimes.com/2002/12/31/business/technology-briefing-telecommunications-nokia-provide-services-finnish-company.html"
         },
         {
           "name": "J.C. PENNEY SAYS DECEMBER SALES MAY EXCEED ESTIMATES",
-          "link": "http://www.nytimes.com/2002/12/31/business/company-news-jc-penney-says-december-sales-may-exceed-estimates.html",
-          "size": 62
+          "size": 62,
+          "link": "http://www.nytimes.com/2002/12/31/business/company-news-jc-penney-says-december-sales-may-exceed-estimates.html"
         },
         {
           "name": "CHIEF INCREASES HIS BID FOR EXCO RESOURCES",
-          "link": "http://www.nytimes.com/2002/12/31/business/company-news-chief-increases-his-bid-for-exco-resources.html",
-          "size": 134
+          "size": 134,
+          "link": "http://www.nytimes.com/2002/12/31/business/company-news-chief-increases-his-bid-for-exco-resources.html"
         },
         {
           "name": "OPEC Delegate Hints at Output Rise to Limit Prices",
-          "link": "http://www.nytimes.com/2002/12/31/business/commodities-opec-delegate-hints-at-output-rise-to-limit-prices.html",
-          "size": 981
-        }
-      ]
-    },
-    {
-      "section_name": "Opinion",
-      "children": [
-        {
-          "name": "Antwone Fisher's Plight",
-          "size": 154
+          "size": 981,
+          "link": "http://www.nytimes.com/2002/12/31/business/commodities-opec-delegate-hints-at-output-rise-to-limit-prices.html"
         }
       ]
     }
-  ],
-  "size": 500
+  ]
 }
