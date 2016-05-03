@@ -1,4 +1,5 @@
 var TimeKnots = {
+  
   draw: function(id, events, options){
     var cfg = {
       width: 600,

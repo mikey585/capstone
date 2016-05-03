@@ -1,6 +1,5 @@
 $(document).ready(function() {
     var submit = document.getElementById("search_button");
-    submit.onclick = getResult;
 });
 
 var timelineEvents = [];

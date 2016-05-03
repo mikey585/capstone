@@ -33,8 +33,17 @@
 
     <div class="box"><center>
       <div class="container-4">
-        <input type="search" id="search" placeholder="2006-2013" />
+        <input type="search" id="search" autocomplete="off" placeholder="1995-2015" onkeypress="handle(event)"/>
         <button id="search_button" class="icon"><i class="fa fa-search"></i></button>
+        <script>
+          function handle(e){
+            if(e.keyCode === 13){
+              call_things();
+            }
+
+            return false;
+            }
+        </script>
       </div></center>
     </div>
 

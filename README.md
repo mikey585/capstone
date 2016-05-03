@@ -1,3 +1,9 @@
+Timeline and Treemap
+====================
+
+Minimalist timeline and basic treemap representation of NY Times Articles
+
+
 timeknots
 =========
 
@@ -30,8 +36,8 @@ It is possible to include or override certain options for particular knots. Thes
 * `lineWidth`: Draw thiw knot using this particular line width
 * `background`: Draw thiw knot using this particular background
 
+References
+==========
 
-Examples
-========
-
-A set of example can be found at [http://graves.cl/timeknots/example/index.html](http://graves.cl/timeknots/example/index.html)
+https://github.com/alangrafu/timeknots
+https://github.com/mbostock/d3/wiki/Treemap-Layout
