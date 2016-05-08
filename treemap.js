@@ -4,7 +4,7 @@ $(document).ready(function() {
 });
 
 function call_things() {
-
+  checkInp();
   getResult();
   treemap();
 }
