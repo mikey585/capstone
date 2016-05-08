@@ -1,5 +1,9 @@
 body {
-  background: #eee;
+  background-image: url("http://img06.deviantart.net/ca80/i/2014/196/b/1/minimal_new_york_by_kevichan-d61zr27.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
   font-size: 30px;
   /*border: 3px solid #696;*/
   /*font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
