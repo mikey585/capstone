@@ -4,7 +4,14 @@ $(document).ready(function() {
 });
 
 function call_things() {
-  checkInp();
+  var x=document.getElementById("search").value;
+
+  if (isNaN(x) || x < 1995 || x > 2015)
+  {
+    alert("Input a valid year: 1995-2015");
+    window.stop();
+    return false;
+  }
   getResult();
   treemap();
 }

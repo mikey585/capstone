@@ -33,15 +33,6 @@ setTimeout(function(){
     })
 }, delay)}
 
-function checkInp()
-{
-  var x=document.getElementById("search").value;
-  if (isNaN(x) || x < 1995 || x > 2015)
-  {
-    alert("Input a valid year: 1995-2015");
-    return false;
-  }
-}
 
 function drawTimeline() {
    TimeKnots.draw("#timeline", timelineEvents, {
